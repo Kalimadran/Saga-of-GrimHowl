@@ -3,7 +3,7 @@ import json, os
 
 app = FastAPI()
 
-# Memory file (state)
+
 # --- Memory file (state) ---
 MEMORY_FILE = "server/memory.json"
 
