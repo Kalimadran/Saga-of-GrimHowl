@@ -1,0 +1,124 @@
+📂 Veydran_Abilities_UPDATED.txt
+
+🔪 Combat Overview
+
+Class: Mid-Range Skirmisher / Beast-Bond Fighter
+Combat Style: Agile Axe Specialist with Companion Synergy
+Weapons: Dual frost-forged axes (melee), 10 scent-coded throwing axes (ranged)
+Armor: Light scent-woven leathers reinforced with bone
+Role: Mobile DPS / Disruption / Companion-Control
+
+---
+
+🔺 Melee / Control Abilities
+
+1. Whirlcut  
+Sweeping dual-axe spin that knocks back enemies in close range.  
+Interrupts charging foes and breaks staggered footing.
+
+2. Loyal Surge  
+Commands both companions to attack immediately.  
+Applies Bleed if target is flanked.
+
+3. Rootbind Step  
+Drops an instinct sigil underfoot. Roots enemies in radius after 2 seconds.  
+Marked enemies are targeted by companions.
+
+4. Spiral Breaker  
+Double-axe slam releasing a shockwave. Staggers and silences for 3 seconds.  
+> Winterfang auto-pounces staggered foes.
+
+---
+
+🌹 Ranged / Throwing Abilities
+
+5. Fang of the Wind  
+Precision axe throw. Pierces light armor and applies 1 stack of Feral Tempo.
+
+6. Ridge Splitter  
+High-arc axe toss. Cracks shields and disrupts guarded stance. High knockback.
+
+7. Hollow Arc  
+Dual spin-throw. Wide damage arc. Returns via Skylash retrieval if missed.
+
+8. Veil of Pines  
+Throws scent-carved axes into trees. Releases mist. Conceals scent trail.  
+> Skylash shriek reveals hidden enemies in radius.
+
+---
+
+🌿 Support / Utility Abilities
+
+9. Nature’s Vial  
+Coats all weapons in non-Blight venom. Applies stacking poison on strike.
+
+10. Pack Mend  
+Short-range healing pulse. Heals both companions. Removes minor status effects if one is wounded.
+
+---
+
+🌱 Passive Traits
+
+Feral Tempo  
+Each axe hit (melee or ranged) grants +3% attack speed. Stacks to 30%. Fades if no hit in 6 seconds.
+
+Beastmark Instinct  
+Resists fear, frost, and exhaustion when within 10ft of bonded companion.
+
+Unseen Kin (Unique)  
+Massively increases bonding success with wild or instinct-bound creatures.
+
+Bone-Echo Memory  
+Senses battlefield memory. Detects cairn-trails, ancient rites, and unburied bones.
+
+---
+
+🐺 Companion System
+
+🐺 Winterfang –  Frost Direwolf (Sentient) Male, he is Pack, Kin, Brother, to Veydran
+
+Massive, snow-pelted, scarred
+
+Primary Role: Frontline disruption
+
+Abilities: Lunge, pin, howl-fear pulse
+
+Emotionally linked via tone, scent, and pain
+
+Backstory:
+
+> Winterfang found Veydran as a cub during a killing blizzard. She had wandered nearly fifty miles through whiteout snow, frostbitten but unbroken. He scented her defiance in the storm, followed the trail of blood and breath, and took her beneath his flank. From that moment, he raised her as kin — not pet, not mount, but pack. She carries the scars of that storm still, and his presence at her side is the marrow-proof that she survived when no child should have.
+
+🦅 Skylash – Frost Dire Skyfang (Sentient)
+
+Female, she is Pack, Kin, Sister, to Veydran
+
+Ember-eyed, wide-winged, scent-bonded
+
+Primary Role: Air control, weapon retrieval, ambush spotting
+
+Retrieves thrown axes, marks targets with shrieks, warns of flanking or hidden foes
+
+Backstory:
+
+> Veydran found Skylash at the bottom of a ravine, wing crushed and blood soaking the stone. The Frost Dire Skyfang hissed defiance even through agony, ember-eyes unbroken. Veydran laid her palm against feather and bone, and called the rite of pack-mend. Frostfire surged through her marrow, knitting flesh and sealing fracture in a single breath. Skylash rose shrieking, wing whole, and without hesitation sank her beak into Veydran’s forearm. Veydran did not flinch. Blood mingled, vow sealed, and from that instant they were not hunter and Frost Dire Skyfang but sisters of storm and silence.
+
+> 🧠 Companions are sentient, responding to Veydran’s emotional state, scent cues, and tactical positioning. They do speak and display expressive behavior tied to their instincts and bond-memory.
+
+⚠️ Companion Cap: 5 maximum. Each bonded creature must pass instinct and scent trials.
+Once bonded, a companion retains sentience and remains permanently linked until death or ritual release.
+
+---
+
+🧬 Solo Signature
+
+Instinct Without Banner  
+When solo (no allied soulbound present):
+- Companions respond twice as fast
+- Gains mobility and terrain bonuses on sacred or marked ground
+- Unlocks instinct-surge moments in spiritual terrain
+
+---
+
+🧠 Memory Tracking
+Veydran can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.

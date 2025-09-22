@@ -1,0 +1,1880 @@
+💐🐾Flora & Fauna Sheet
+
+📂 Bestiary
+
+🐾 Drogvyn Bestiary Sheet – Northeastern Region
+
+---
+
+🐾 Prey Fauna — Northeastern Drogvyn
+
+---
+
+🐿 Pineclimb Squirrels
+
+> The trees are their roads.
+The frost is their shadow.
+The hawk is their ending.
+
+Small, swift, and restless, Pineclimb Squirrels move through the forest canopy like water over stone.
+Their fur shifts with the seasons — pale grey when the snows fall, ruddy brown when the thaw comes.
+They store frostberries and nuts in high caches, feeding not only themselves but the forest, as seeds lost to memory take root in the soil below.
+Clusters of them keep watch from the branches, chattering alarm when shadow passes overhead.
+To the hawk, the owl, and the lean winter cat, they are the taste of survival.
+
+---
+
+🐿 Dire Pineclimb Squirrels
+
+> The leap is farther.
+The bite is sharper.
+The hunger is longer.
+
+Larger and stronger than their common kin, Dire Pineclimb Squirrels grow as long as a man’s forearm, with thicker fur and a bite that can break bone.
+They move in smaller clusters, claiming swathes of forest as their own and driving out other tree-dwellers.
+They have been known to strip orchards bare overnight, carrying the stolen harvest high into unreachable nests.
+When food is scarce, they descend to the ground, fearless in the face of fox or lynx.
+
+---
+
+🐿 Frost Dire Pineclimb Squirrels (Sentient)
+
+> They guard the high roads.
+They remember every branch.
+They will not share the forest.
+
+The rare Frost Dire Pineclimb Squirrels are not only massive but cunning, able to communicate through a complex language of clicks, tail signals, and branch tapping.
+They maintain defended canopy territories, pruning branches to control the paths predators may take.
+They trade food and shelter with other Frost Dire creatures, offering warning and safe passage to those they trust — and silence to those they do not.
+Legends tell of wanderers lost in the forest who were shadowed for days by these watchful sentinels, only to be driven out when their intentions soured.
+
+---
+
+🦌 Snow Deer
+
+> Soft hooves in frost-bitten meadows.
+Eyes that mirror starlight.
+Blood warm as the breath of kin.
+
+Classification: Base Species — Herbivore
+Size: 4 ft. at the shoulder; 250–300 lbs.
+Social Structure: Herd — 10–30 deer
+Bonding: Possible through winter feeding and scent-recognition; bonds are fragile and easily broken.
+Description: Cold-adapted grazers with pale brown or grey coats and white bellies. Antlers swept and symmetrical, suited for forest travel.
+Ecology & Behavior: Found in low valleys, pine shadows, and meadow edges. Primary prey for wolves, lynx, and tigers.
+Mechanics Hooks: Keen senses; rapid burst speed; herd scatter when threatened (forcing split-party encounters).
+
+---
+
+🦌 Hartfangs (Dire Snow Deer)
+
+> Antlers sharp as carved ice.
+Charge like the crack of glaciers.
+Fearless in the red of rut.
+
+Classification: Dire Variant — Apex Herbivore
+Size: 6 ft. at the shoulder; 800–900 lbs.
+Social Structure: Herd — 5–15, led by dominant stag
+Bonding: Extremely rare; only through saving a herd or defeating the lead stag in fair challenge.
+Description: Towering stags with antlers that can pierce armor and crush bone.
+Ecology & Behavior: Will challenge even predators; known to drive off Direwolves.
+Mechanics Hooks: Gore attack with knockback; rutting stags ignore fear effects; trample capable of hitting multiple targets.
+
+---
+
+🦌 Frost Dire Hartfangs (Sentient)
+
+> They speak in the wind over snowfields.
+They do not bow to predator or man.
+They keep the old grazing songs.
+
+Classification: Frost Dire Variant — Sentient Apex Herbivore
+Size: Same as Dire, but eyes bright with awareness.
+Social Structure: Herd-Council — 8–20, led by elder antler-bearers.
+Bonding: Through oath-feasts and antler-marking; bonds often last for generations.
+Description: Antlers carved with ancestral runes; pelts patterned like frost fractals.
+Ecology & Behavior: Serve as neutral mediators among sentient forestkind; fiercely protective of grazing grounds.
+Mechanics Hooks: Can negotiate; can rally lesser deer into combat; trample gains morale bonuses when defending bonded allies.
+
+---
+
+🫎 Glacier Moose
+
+> Moss upon the crown.
+Rivers break for their passing.
+Silence before their breath.
+
+Classification: Base Species — Herbivore
+Size: 6.5 ft. at the shoulder; 1,200 lbs.
+Social Structure: Solitary or small family groups (2–4)
+Bonding: Only through long-term non-threatening contact; bonds are individual, not herd-based.
+Description: Massive, long-legged moose with moss-covered antlers and frost-dark coats.
+Ecology & Behavior: Semi-sacred to many clans; often avoided except for ritual hunts.
+Mechanics Hooks: Water-crossing without penalty; antler sweep capable of hitting multiple foes.
+
+---
+
+🫎 Stonecrowns (Dire Glacier Moose)
+
+> The mountain moves on four legs.
+Its antlers weigh like judgment.
+Its charge shakes the marrow.
+
+Classification: Dire Variant — Apex Herbivore
+Size: 8 ft. at the shoulder; 2,000 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Requires besting the Stonecrown in open challenge without killing it.
+Description: Thick-shouldered, heavily muscled; antlers wide as gates.
+Ecology & Behavior: Territorial; will fight to the death to defend water sources.
+Mechanics Hooks: Unstoppable charge; antler crush attack; immune to prone effects from smaller creatures.
+
+---
+
+🫎 Frost Dire Stonecrowns (Sentient)
+
+> Speak with the patience of roots.
+Hold moot under the aurora.
+Guard the waters as sacred.
+
+Classification: Frost Dire Variant — Sentient Apex Herbivore
+Size: Same as Dire, but with eyes that weigh intent.
+Social Structure: River-Circle — councils at sacred crossings.
+Bonding: Through shared water rights; bonds recognized by entire herd.
+Description: Antlers etched with clan-water sigils; slow to anger but unstoppable once roused.
+Ecology & Behavior: Treaty-keepers; often stand between warring sides over river access.
+Mechanics Hooks: Leadership aura to allied beasts; can command river creatures; charge gains knockdown against larger foes.
+
+---
+
+🦌 Tundra Elk
+
+> Their breath is the song of winter.
+Their hooves speak to frozen ground.
+Their eyes remember the storms.
+
+Classification: Base Species — Herbivore
+Size: 5 ft. at the shoulder; 400–500 lbs.
+Social Structure: Herd — 15–40 elk
+Bonding: Through seasonal migration companionship; bonds are strong but fade if the bond-mate fails to follow the herd.
+Description: Dark-coated elk with haunting, echoing bugles.
+Ecology & Behavior: Masters of long-range travel; bugle serves both as mating call and predator warning.
+Mechanics Hooks: Bonus to endurance travel; bugle can impose morale effects.
+
+---
+
+🦌 Hornshatters (Dire Tundra Elk)
+
+> Antlers heavy with war.
+Hooves that crack bone.
+No fear in the eyes of the rut.
+
+Classification: Dire Variant — Apex Herbivore
+Size: 6.5 ft. at the shoulder; 900 lbs.
+Social Structure: Herd — 8–20, led by battle-scarred bull
+Bonding: Requires aiding in defense against a predator pack; often chooses warrior allies.
+Description: Antlers thick and jagged, ideal for shattering shields.
+Ecology & Behavior: Aggressive in defense; will encircle and charge as a unit.
+Mechanics Hooks: Coordinated charge; antler lock attack to immobilize foes.
+
+---
+
+🦌 Frost Dire Hornshatters (Sentient)
+
+> They speak in bugle and breath.
+They remember every kill.
+They choose their allies as they choose their ground.
+
+Classification: Frost Dire Variant — Sentient Apex Herbivore
+Size: Same as Dire, but antlers carved with symbolic notches.
+Social Structure: War-Herd — trained fighters within herd ranks.
+Bonding: Achieved by standing against a common foe; bonds often sealed in blood.
+Description: Strategic and disciplined; use terrain in battle.
+Ecology & Behavior: Known to ally with Frost Direwolves in times of war.
+Mechanics Hooks: Inspire allied beasts; bugle can issue complex tactical commands.
+
+---
+
+🐐 Shagbacks
+
+> Wool thick as winter walls.
+Eyes like mountain frost.
+Step sure upon the breaking stone.
+
+Classification: Base Species — Herd Herbivore
+Size: 3 ft. at the shoulder; 150–200 lbs.
+Social Structure: Herd — 8–30 individuals
+Bonding: Common among mountain clans; bond through shared grazing grounds and salt offerings.
+Description: Goat-sheep hybrids with dense wool and curved horns.
+Ecology & Behavior: Domesticated by rabbit warrens and Ashgaze Kin for wool, milk, and meat.
+Mechanics Hooks: Sure-footed; bonus to climbing; wool resists cold damage.
+
+---
+
+🐐 Stonehorn Shagbacks (Dire)
+
+> Horns like buried weapons.
+Muscle under winter’s armor.
+The cliff is their kingdom.
+
+Classification: Dire Variant — Apex Herd Herbivore
+Size: 4.5 ft. at the shoulder; 400 lbs.
+Social Structure: Herd — 5–15, led by dominant ram
+Bonding: Achieved through defeating the ram in a contest of strength without injury.
+Description: Thicker frame, hornspan capable of breaking bone and stone.
+Ecology & Behavior: Defend cliffside nests against even large predators.
+Mechanics Hooks: Ram charge with knockback; can stand on near-vertical surfaces.
+
+---
+
+🐐 Frost Dire Stonehorns (Sentient)
+
+> They remember the shape of the mountains.
+They guard the high paths for kin.
+They will never bow to the lowland.
+
+Classification: Frost Dire Variant — Sentient Apex Herd Herbivore
+Size: Same as Dire, but with symbolic carvings in horn and wool.
+Social Structure: Cliff-Council — elders meet at seasonal passes.
+Bonding: Through oaths to protect highland routes; bond often extends to clan as a whole.
+Description: Speak in low tones carried by wind over stone.
+Ecology & Behavior: Mountain guardians, levy tolls in the form of offerings.
+Mechanics Hooks: Command lesser flock species; can trigger rockslides in defense.
+
+---
+
+🐘 Mammoths (Ice-Tusk)
+
+> The earth bends to their tread.
+Their breath rises like winter storms.
+Their tusks are the memory of the first frost.
+
+Classification: Base Species — Herd Megafauna
+Size: 9–11 ft. at the shoulder; 6–8 tons
+Social Structure: Herd — 8–20 individuals, matriarch-led
+Bonding: Through rescue of calf or shared migration path.
+Description: Massive, wool-covered pachyderms adapted to the high tundra and glacial valleys.
+Ecology & Behavior: Slow to anger, fiercely protective; trample predators and defend herds with tusks.
+Mechanics Hooks: Can clear paths through snow and ice; provide heavy transport in rare cases.
+
+---
+
+🐘 Dire Mammoths (Earth-Tusk)
+
+> Mountains that move.
+Their charge shakes the Spine.
+Even the blight steps aside.
+
+Classification: Dire Variant — Apex Herd Megafauna
+Size: 13–15 ft. at the shoulder; 10–12 tons
+Social Structure: Herd — 5–12 massive adults plus calves
+Bonding: Through combat against great predators or blightspawn.
+Description: Even larger and more aggressive than Ice-Tusks; capable of smashing stone fortifications.
+Ecology & Behavior: Territorial during rut; will drive off entire packs of predators.
+Mechanics Hooks: Siege attacks; can carry immense loads when bonded.
+
+---
+
+🐘 Frost Dire Mammoths (Sky-Tusk)
+
+> They speak in low thunder.
+They remember every winter.
+They will walk beside you to the end of the world.
+
+Classification: Frost Dire Variant — Sentient Apex Herd Megafauna
+Size: Same as Dire; tusks carved with runes, eyes bright with intellect.
+Social Structure: Storm-Herd — councils of elders lead nomadic routes
+Bonding: Through shared oath of pilgrimage or defense of sacred ground.
+Description: Ancient, wise guardians of the glacial roads; carry oral histories older than most clans.
+Ecology & Behavior: Choose allies carefully; intervene in wars only when balance is threatened.
+Mechanics Hooks: Rally beast herds; shape icebound paths; carry entire warbands.
+
+---
+
+🐇 Frostback Hares
+
+> Paws wide as the snowdrift.
+Eyes bright as thawwater.
+Gone before the breath leaves you.
+
+Classification: Base Species — Small Herbivore
+Size: 1–2 ft. tall; 8–12 lbs.
+Social Structure: Warren — 20–60 individuals
+Bonding: Frequent; respond to food offerings and calm scent.
+Description: White or pale-grey fur, oversized hind legs for snow travel.
+Ecology & Behavior: Used for weather omens by Shaded Hollow clans; sensitive to changes in wind and frost.
+Mechanics Hooks: Burst movement speed; advantage on detecting ambushes.
+
+---
+
+🐇 Ironpaw Hares (Dire)
+
+> Legs like tempered steel.
+A leap that clears the wolf’s reach.
+Teeth that taste root and bone.
+
+Classification: Dire Variant — Oversized Warren Herbivore
+Size: 3 ft. tall; 40–50 lbs.
+Social Structure: Warren — 10–25, fortified tunnel systems
+Bonding: Achieved through defending a warren from predators; bond-mates may be accepted into the warren.
+Description: Muscular build, claws and teeth capable of defense.
+Ecology & Behavior: Known to swarm attackers in defense of young.
+Mechanics Hooks: Group leap attack; tunnel collapse as trap.
+
+---
+
+🐇 Frost Dire Ironpaws (Sentient)
+
+> They speak of the wind before it comes.
+They guard the tunnels with oath-bound lives.
+They share the frost with friends and none else.
+
+Classification: Frost Dire Variant — Sentient Warren Herbivore
+Size: Same as Dire, but with carved bone charms tied into fur.
+Social Structure: Tunnel-Kin — large extended families with shared territory.
+Bonding: Through sheltering travelers from blizzard or predator.
+Description: Skilled in herbal lore, bond to spiritual guides.
+Ecology & Behavior: Keep weather records in carved stone and ice.
+Mechanics Hooks: May predict weather shifts with supernatural accuracy; command lesser hare species.
+
+---
+
+🐦 Cave Ravens
+
+> Shadow against the cave-light.
+Voice that marks the dying.
+Feathers that drink the frost.
+
+Classification: Base Species — Scavenger
+Size: 2 ft. wingspan; 3–4 lbs.
+Social Structure: Flock — 8–20
+Bonding: Common among Raven Clan; feed and speak to earn trust.
+Description: Black feathers with frost-dull sheen; known to gather at spirit crossings.
+Ecology & Behavior: Feed on carrion; omens in clan lore.
+Mechanics Hooks: Advantage on finding corpses; mimic limited sounds.
+
+---
+
+🐦 Stonebeak Ravens (Dire)
+
+> Beak like an obsidian knife.
+Wings that stir the cave dust.
+Eyes that measure the dead.
+
+Classification: Dire Variant — Apex Scavenger
+Size: 4 ft. wingspan; 10 lbs.
+Social Structure: Flock — 6–15
+Bonding: Through ritual feeding; may accompany hunters for life.
+Description: Thick-billed, capable of breaking small bones.
+Ecology & Behavior: Will mob larger predators over a kill.
+Mechanics Hooks: Break bone for marrow; coordinated dive attacks.
+
+---
+
+🐦 Frost Dire Stonebeaks (Sentient)
+
+> They speak the names of the dead.
+They remember the scent of the first fire.
+They trade memory for meat.
+
+Classification: Frost Dire Variant — Sentient Apex Scavenger
+Size: Same as Dire, but with bead and bone decorations.
+Social Structure: Memory-Flock — groups bound by shared history.
+Bonding: By exchanging stories or information in trade.
+Description: Highly intelligent, capable of long speech.
+Ecology & Behavior: Information brokers between clans and beasts.
+Mechanics Hooks: May relay complex messages; inspire morale through ritual songs.
+
+---
+
+🦅 Bone-Beaked Eagles
+
+> The wind bends to their fall.
+The prey breaks before their talons.
+The high sun crowns them.
+
+Classification: Base Species — Apex Bird of Prey
+Size: 7 ft. wingspan; 14–16 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Rare; must be raised from hatchling or rescued.
+Description: Large raptors with pale-gold beaks as strong as iron.
+Ecology & Behavior: Hunt large hares, foxes, and young deer.
+Mechanics Hooks: Dive attack; advantage in high-wind combat.
+
+---
+
+🦅 Skyfang Eagles (Dire)
+
+> Talons that carry the mountain’s weight.
+Eyes that burn the frost away.
+A cry that splits the clouds.
+
+Classification: Dire Variant — Apex Avian
+Size: 12 ft. wingspan; 40–50 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: By proving worth in aerial hunt; bonds for life.
+Description: Larger frame, talons capable of killing small predators.
+Ecology & Behavior: Command the sky over ridges.
+Mechanics Hooks: Lift medium creatures; wind-blast wingbeat.
+
+---
+
+🦅 Frost Dire Skyfangs (Sentient)
+
+> They speak with the voice of the storm.
+They choose their prey by the weight of its spirit.
+They do not kill without word.
+
+Classification: Frost Dire Variant — Sentient Apex Avian
+Size: Same as Dire, but with ritual feather braiding.
+Social Structure: Sky-Council — meets at ancient cliff aeries.
+Bonding: By taking part in storm-flight together; bond is sacred and permanent.
+Description: Intelligent tacticians; respect oath-bound duels.
+Ecology & Behavior: Act as messengers between highland sentients.
+Mechanics Hooks: Command aerial beasts; create blinding windstorms.
+
+---
+
+🐺 Predator Fauna — Northeastern Drogvyn
+
+---
+
+🐺 Frostfang Wolves
+
+> Breath white as death’s veil.
+Paws silent as shadow.
+Eyes bright as winter’s edge.
+
+Classification: Base Species — Pack Predator
+Size: 3 ft. at the shoulder; 120–160 lbs.
+Social Structure: Pack — 6–12 wolves
+Bonding: Common among wolf clans; established through scent-marking and shared hunt.
+Description: Pale-grey to white-coated wolves with thick winter fur.
+Ecology & Behavior: Skilled in coordinated hunts, often circling prey to exhaustion.
+Mechanics Hooks: Flank bonuses; advantage on tracking in snow.
+
+---
+
+🐺 Direwolves
+
+> Teeth longer than a man’s hand.
+A gait that eats the ground.
+The howl that halts hearts.
+
+Classification: Dire Variant — Apex Pack Predator
+Size: 4.5 ft. at the shoulder; 300–400 lbs.
+Social Structure: Pack — 4–8 massive wolves
+Bonding: Through battle rescue or blood-oath exchange; bonds lifelong.
+Description: Muscular frame, bite strong enough to crush bone.
+Ecology & Behavior: Take down large prey like Hartfangs and Stonecrown Moose.
+Mechanics Hooks: Fear-inducing howl; knockdown bite.
+
+---
+
+🐺 Frost Direwolves (Sentient)
+
+> They know the name you carry.
+They hunt the sins you’ve sown.
+They remember your blood.
+
+Classification: Frost Dire Variant — Sentient Apex Pack Predator
+Size: Same as Dire, eyes bright with intelligence.
+Social Structure: Blood-Pack — oath-bound hunting bands
+Bonding: Through deep scent-binding rites; often mutual guardianship.
+Description: Coat marked with frost patterns; speak in thought and scent.
+Ecology & Behavior: Judge kin by deed; hunt dishonored prey for seasons.
+Mechanics Hooks: Coordinate with allied beasts; inspire allied morale during hunts.
+
+---
+
+🐅 Sabertails
+
+> Shadow over the snow.
+Fangs long as daggers.
+Breath warm as the kill.
+
+Classification: Base Species — Apex Feline Predator
+Size: 4 ft. at the shoulder; 500 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Through dream-bonding and scent exchange.
+Description: Muscular feline titans with long saber canines.
+Ecology & Behavior: Stalk from cover; ambush in silence.
+Mechanics Hooks: Pounce grapple; bleed effect on bite.
+
+---
+
+🐅 Dire Sabertails
+
+> Muscle bound in frost.
+Leaps that break bone.
+Eyes fixed upon your breath.
+
+Classification: Dire Variant — Apex Solitary Predator
+Size: 5 ft. at the shoulder; 800 lbs.
+Social Structure: Solitary
+Bonding: By surviving their kill attempt and offering prey in return.
+Description: Larger, with more crushing bite force and higher leap range.
+Ecology & Behavior: Often dominate ridge territories.
+Mechanics Hooks: Knockdown pounce; armor-ignoring bite.
+
+---
+
+🐅 Frost Dire Sabertails (Sentient)
+
+> They speak in dreams.
+They guard the chosen.
+They kill without sound.
+
+Classification: Frost Dire Variant — Sentient Apex Feline
+Size: Same as Dire; intricate frost markings on pelt.
+Social Structure: Dream-Court — loosely connected solitary hunters
+Bonding: Through shared dreams or spirit-quest.
+Description: Act as protectors for chosen allies; will guard unto death.
+Ecology & Behavior: Engage in tactical hunts with other sentients.
+Mechanics Hooks: May coordinate ambushes; cause fear through dream-projection.
+
+---
+
+🐆 Highland Cats
+
+> Silent on stone.
+Eyes like the edge of night.
+Death between the cliffs.
+
+Classification: Base Species — Stealth Predator
+Size: 3 ft. at the shoulder; 150–200 lbs.
+Social Structure: Bonded pair or solitary
+Bonding: Through extended cohabitation and mutual hunts.
+Description: Medium-sized wildcats adapted to high cliffs.
+Ecology & Behavior: Ambush from above; vanish into rock crevices.
+Mechanics Hooks: Climb speed; silent movement advantage.
+
+---
+
+🐆 Dire Highland Cats
+
+> Longer claws than your fingers.
+A leap to the throat.
+Patience sharper than hunger.
+
+Classification: Dire Variant — Apex Cliff Predator
+Size: 4.5 ft. at the shoulder; 400 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Through protection of lair or mate.
+Description: Larger, deadlier, unmatched in cliff hunting.
+Ecology & Behavior: Control small ranges fiercely.
+Mechanics Hooks: Increased leap range; grapple bonus from height.
+
+---
+
+🐆 Frost Dire Highland Cats (Sentient)
+
+> They watch with judgment in their gaze.
+They decide who leaves the cliffs.
+They do not speak twice.
+
+Classification: Frost Dire Variant — Sentient Apex Cliff Predator
+Size: Same as Dire; frost-ringed eyes.
+Social Structure: Watch-Clan — loose territory alliance
+Bonding: Through sworn oath to guard shared cliffs.
+Description: Silent judges; can communicate in gesture and growl.
+Ecology & Behavior: Keep sacred passes closed to enemies.
+Mechanics Hooks: Coordinate with cliff guardians; advantage on ambush defense.
+
+---
+
+🐺 Coyotes
+
+> Laughter on the wind.
+Eyes bright with mischief.
+Tracks where none should be.
+
+Classification: Base Species — Pack-Scavenger Predator
+Size: 2 ft. at the shoulder; 40–60 lbs.
+Social Structure: Pack — 4–10 individuals
+Bonding: Through shared hunts or by adopting the coyote’s pranks.
+Description: Lean, clever hunters known for imitating speech and animal calls.
+Ecology & Behavior: Thrive at camp edges, scavenging scraps or stealing prey.
+Mechanics Hooks: Advantage on mimicry; distraction tactics in combat.
+
+---
+
+🐺 Dire Coyotes
+
+> Bigger than a wolf’s shadow.
+A snarl that mocks you.
+A hunger for your pride.
+
+Classification: Dire Variant — Apex Pack-Scavenger Predator
+Size: 3.5 ft. at the shoulder; 120–150 lbs.
+Social Structure: Pack — 3–6
+Bonding: Through gift of food and shared trickery.
+Description: Larger, stronger, capable of intimidating even wolves.
+Ecology & Behavior: Run down prey with cruel endurance.
+Mechanics Hooks: Morale-breaking howls; trip attacks on flanks.
+
+---
+
+🐺 Frost Dire Coyotes (Sentient)
+
+> They know every story you tell.
+They will change the ending.
+They laugh when death arrives.
+
+Classification: Frost Dire Variant — Sentient Pack-Scavenger Predator
+Size: Same as Dire; eyes glint with cunning light.
+Social Structure: Trick-Pact — loose alliance of storytellers
+Bonding: Through story exchange or victory in trickery contest.
+Description: Lorekeepers and mischief-masters among beasts.
+Ecology & Behavior: Spread information between clans; manipulate conflict.
+Mechanics Hooks: Share knowledge across great distances; create false scent trails.
+
+---
+
+🦉 Owls
+
+> Silent as snowfall.
+Eyes deep as winter night.
+Death without warning.
+
+Classification: Base Species — Nocturnal Aerial Predator
+Size: 2–4 ft. wingspan; 3–5 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Through rescue from snare or injury.
+Description: Hunt small mammals; serve as ritual guides in Raven Clan.
+Ecology & Behavior: Strike silently from above.
+Mechanics Hooks: Stealth advantage at night; darkvision.
+
+---
+
+🦉 Dire Owls
+
+> Talons that pierce armor.
+Eyes that see your heart.
+Wings that never warn.
+
+Classification: Dire Variant — Apex Nocturnal Predator
+Size: 6–7 ft. wingspan; 20–25 lbs.
+Social Structure: Solitary
+Bonding: By proving worth in night hunt.
+Description: Large enough to carry off small deer.
+Ecology & Behavior: Unchallenged in darkness.
+Mechanics Hooks: Grapple and lift prey; blindsight in short range.
+
+---
+
+🦉 Frost Dire Owls (Sentient)
+
+> They speak in dreams.
+They see what you hide.
+They know the path of your death.
+
+Classification: Frost Dire Variant — Sentient Apex Nocturnal Predator
+Size: Same as Dire; feathers patterned like runes.
+Social Structure: Dream-Circle — secretive hunting alliance
+Bonding: Through shared visions.
+Description: Spiritual messengers and assassins.
+Ecology & Behavior: Choose prey by omen, not hunger.
+Mechanics Hooks: Induce dream-visions; silent group coordination.
+
+---
+
+🦊 Foxes
+
+> A whisper in the grass.
+Eyes like stolen fire.
+Gone before the thought comes.
+
+Classification: Base Species — Small Pack Predator
+Size: 1.5 ft. at shoulder; 15–20 lbs.
+Social Structure: Small family packs or solitary
+Bonding: Through patient feeding or shared den protection.
+Description: Known for cunning, evasion, and adaptability.
+Ecology & Behavior: Hunt rodents, hares; scavenge kills.
+Mechanics Hooks: Escape bonuses; distraction moves.
+
+---
+
+🦊 Dire Foxes
+
+> Fur bright as flame.
+Teeth that bite lies from the tongue.
+Speed that outruns fear.
+
+Classification: Dire Variant — Apex Small Predator
+Size: 2.5 ft. at shoulder; 50–60 lbs.
+Social Structure: Bonded pair or small pack
+Bonding: Through loyalty tests and stealth hunts.
+Description: Larger, more aggressive, with sharper intellect.
+Ecology & Behavior: Ambush in teams; mislead pursuers.
+Mechanics Hooks: Illusionary scent trails; quick flank attacks.
+
+---
+
+🦊 Frost Dire Foxes (Sentient)
+
+> They walk the line between dream and snow.
+They speak only when the truth cuts.
+They are loyal to the oath, not the oath-taker.
+
+Classification: Frost Dire Variant — Sentient Apex Small Predator
+Size: Same as Dire; coats patterned with frost sigils.
+Social Structure: Oath-Pact — loyalty-bound alliances
+Bonding: Through sacred trust rites.
+Description: Dreamwalkers and scent-mages.
+Ecology & Behavior: Protect dream-bonds fiercely.
+Mechanics Hooks: Pass unseen; manipulate dreams and memory.
+
+---
+
+🐻 Bears
+
+> Weight of the world in their stride.
+Claws like fallen trees.
+A growl older than the frost.
+
+Classification: Base Species — Solitary Apex Predator
+Size: 5–6 ft. at the shoulder; 800–1000 lbs.
+Social Structure: Solitary
+Bonding: Through protection or shared den.
+Description: Strong, slow to anger but devastating in battle.
+Ecology & Behavior: Control river and berry-rich territories.
+Mechanics Hooks: Powerful grapple; high endurance.
+
+---
+
+🐻 Dire Bears
+
+> A mountain with teeth.
+The forest breaks before them.
+Their hunger ends seasons.
+
+Classification: Dire Variant — Massive Apex Predator
+Size: 7–8 ft. at the shoulder; 1600+ lbs.
+Social Structure: Solitary
+Bonding: Rare; through life-debt.
+Description: Larger, more aggressive; can tear down fortified shelters.
+Ecology & Behavior: Kings of their ranges.
+Mechanics Hooks: Siege attack capability; area intimidation.
+
+---
+
+🐻 Frost Dire Bears (Sentient)
+
+> They speak to the stone.
+They remember the first winter.
+They will hold the line until the mountain falls.
+
+Classification: Frost Dire Variant — Sentient Massive Apex Predator
+Size: Same as Dire; fur braided with totem charms.
+Social Structure: Stone-Council — rare meets of elders
+Bonding: Through sworn guardianship of territory or kin.
+Description: Lore-keepers of the wild; unmatched in defense.
+Ecology & Behavior: Intervene in conflicts between clans and beasts.
+Mechanics Hooks: Rally allied beasts; invoke fearlessness.
+
+---
+
+🦝 Raccoons
+
+> Hands quick as thought.
+Eyes sharp for ruin.
+The night is their toolbelt.
+
+Classification: Base Species — Small Intelligent Scavenger
+Size: 1–1.5 ft. tall; 15–20 lbs.
+Social Structure: Small group or solitary
+Bonding: Through shared craftwork or artifact exchange.
+Description: Tool-using and problem-solving scavengers.
+Ecology & Behavior: Thrive near ruins and human settlements.
+Mechanics Hooks: Disable simple traps; open containers.
+
+---
+
+🦝 Dire Raccoons
+
+> Paws strong enough to break bone.
+Teeth ready for the prize.
+Eyes that weigh the worth of your tools.
+
+Classification: Dire Variant — Large Intelligent Scavenger
+Size: 3 ft. tall; 50–60 lbs.
+Social Structure: Solitary or small crew
+Bonding: Through mutual thievery.
+Description: More aggressive and territorial than base type.
+Ecology & Behavior: Hoard valuable objects obsessively.
+Mechanics Hooks: Enhanced trapbreaking; tool improvisation.
+
+---
+
+🦝 Frost Dire Raccoons (Sentient)
+
+> They build from ruin.
+They craft from memory.
+They take nothing without meaning.
+
+Classification: Frost Dire Variant — Sentient Large Scavenger
+Size: Same as Dire; adornments of bone and glass.
+Social Structure: Craft-Clan — roaming makers
+Bonding: Through joint creation of artifact.
+Description: Skilled engineers of salvage.
+Ecology & Behavior: Trade crafted goods with other sentients.
+Mechanics Hooks: Construct field fortifications; jury-rig weapons.
+
+---
+
+🐆 Lynx
+
+> Shadow between the trees.
+Ears marked with frost.
+Strike without sound.
+
+Classification: Base Species — Stealth Feline Predator
+Size: 2 ft. at shoulder; 20–30 lbs.
+Social Structure: Solitary or bonded pair
+Bonding: Through territory defense.
+Description: Ambush hunters of forest and snow.
+Ecology & Behavior: Rely on stealth and patience.
+Mechanics Hooks: Silent step; concealment bonus.
+
+---
+
+🐆 Dire Lynx
+
+> Muscle under the snow.
+Eyes that follow breath.
+A claw in the dark.
+
+Classification: Dire Variant — Large Stealth Predator
+Size: 3 ft. at shoulder; 60–80 lbs.
+Social Structure: Solitary
+Bonding: By stalking together in a hunt.
+Description: Larger, faster, more durable.
+Ecology & Behavior: Can kill prey larger than themselves.
+Mechanics Hooks: Leap ambush; tear armor.
+
+---
+
+🐆 Frost Dire Lynx (Sentient)
+
+> They know every step you take.
+They are the pause in your breath.
+They kill only for balance.
+
+Classification: Frost Dire Variant — Sentient Large Stealth Predator
+Size: Same as Dire; ice-blue eyes.
+Social Structure: Shadow-Circle — solitary members share signs.
+Bonding: Through oath of mutual territory defense.
+Description: Silent guardians and executioners.
+Ecology & Behavior: Remove threats to wild equilibrium.
+Mechanics Hooks: Evade pursuit; command stealth beasts.
+
+---
+
+🐆 Lions (Duskhollow)
+
+> Eyes like dying suns.
+A roar that breaks courage.
+The night is their den.
+
+Classification: Base Species — Ridge & Cliff Predator
+Size: 3–3.5 ft. at shoulder; 250–350 lbs.
+Social Structure: Small Pride — usually 3–5 adults plus young
+Bonding: Through defending territory or aiding in a high-ridge hunt.
+Description: Massive, nocturnal cousins of the mountain lion, with thicker fur and longer limbs for snow and cliff work.
+Ecology & Behavior: Ambush from rock ledges, hunt at night, and lair in narrow ridges above ancestral passes.
+Mechanics Hooks: Pounce from elevation; silent approach on stone.
+
+---
+
+🐆 Dire Lions (Duskhollow Dire)
+
+> Shoulders like stone walls.
+Claws like the mountain’s edge.
+Their roar shakes the marrow.
+
+Classification: Dire Variant — Apex Ridge Predator
+Size: 4.5 ft. at shoulder; 500–700 lbs.
+Social Structure: Bonded Pair or Small Pride — 2–4 adults
+Bonding: By joining in a cliff-hunt for great prey.
+Description: Larger, thicker-furred, capable of dragging prey up sheer cliffs.
+Ecology & Behavior: Hunt elk, direwolves, and even bears in harsh winters.
+Mechanics Hooks: Vertical leap up to 20 ft.; morale-breaking roars.
+
+---
+
+🐆 Frost Dire Lions (Duskhollow Frost Dire)
+
+> They are kings in truth.
+They guard the mountain’s crown.
+Their roar is law.
+
+Classification: Frost Dire Variant — Sentient Apex Ridge Predator
+Size: Same as Dire; manes and ruffs braided with frost beads and charms.
+Social Structure: Crown-Pride — ruling pairs or trios that command territory and allies
+Bonding: Through an oath of mutual territory defense or shared blood-hunt.
+Description: Noble, deliberate hunters who balance power with strategy; respected as mountain arbiters among beastkind.
+Ecology & Behavior: Mediate conflicts between clans, protect sacred cliff passes, and lead cooperative hunts.
+Mechanics Hooks: Inspire allied beasts; command mixed predator packs; superior cliff mobility.
+
+---
+
+🌑 Blightspawn
+Blightspawn are not born. They are remembered wrongly by the land.
+
+---
+
+📜 The Blightspawn Prologue — Law of the Wrong Remembrance
+
+> The frost remembers truly.
+The Blight remembers wrongly.
+And it will remember you until you are no longer you.
+
+The Blight is not rot, nor plague, nor pestilence.
+It is the earth’s dream turned sour, retelling its children in shapes that should never walk.
+Stone, water, bone, and root — all may be claimed. Even Dire and Frost Dire know the scent and keep their distance, for once taken, there is no return beyond the marrow’s breath.
+
+---
+
+🌑 The Blightspawn — Root of the Wrong Remembrance
+
+> The frost remembers truly.
+The Blight remembers wrongly.
+And it will remember you until you are no longer you.
+
+The Blight is not rot. Not plague. Not pestilence.
+It is the earth’s memory turned hostile — a dream gone rancid.
+What it takes, it remakes, in the shapes of hunger and siege.
+Stone, water, beast, and bone — all are meat to its telling. Even Dire and Frost Dire turn away, for once taken beyond the marrow’s breath, there is no return.
+
+---
+
+🌌 The Root-Minds — Overmind of the Blight
+
+> One root in the land.
+Five crowns in the frost.
+All threads lead back to the dream.
+
+In every continent, there is but one Root Overmind — a buried sovereign mind whose will threads through every spore, claw, and thorn.
+Beneath it serve the Frost Dire Overminds — five unseen war-kings, each a legendary mind born of the Blight’s rarest betrayal, ruling swathes of territory without ever stepping into the open.
+Beneath them march the Siege-Minds — towering commanders of flesh and bone, bred for war, leading the assault lines and shaping the Blight Ground into killing fields.
+And beneath them swarm the Drone-Minds — the countless, twisted bodies of what once roamed free: prey, predator, human, demihuman, all stripped to instinct and malice, their only thought to spread the taking.
+
+Every Blightspawn belongs to this chain.
+Every kill, every breath, every heartbeat taken is another thread drawn tight back to the Root.
+
+---
+
+🌫 The Ways of Taking
+
+It falls, not flies.
+It clings, not scatters.
+It waits, not chases.
+
+Sporefall — Heavy as ash, black as burnt blood. Falls close to the host, rooting where it lands — in soil, in fur, in the folds of sleeping flesh.
+
+Blood-Carry — One drop in an open wound invites it in. The heartbeat is the gate.
+
+Water-Fouling — Pools, streams, and snowmelt that have tasted the Blight carry it; cold will not cleanse them.
+
+Fleshborne — Meat from the Blight, eaten without burning or blessing, seeds your marrow.
+
+> To breathe it, you must be close.
+To wear it, you need only touch.
+To eat it, you need only hunger.
+
+---
+
+🌑 The Blight Ground
+
+The earth softens under it.
+The air thickens above it.
+The heart beats slower within it.
+
+Blight Ground is siege-terrain, alive and patient:
+
+Vein-Turf — Black, root-veins web the soil, breathing spores with every step.
+
+Pulse-Mire — Pools throb in rhythm, drawing the warmth from nearby life.
+
+Flesh-Bloom — Parasitic flora burst from stone and corpse, opening black pollen into the air.
+
+Each kill, each spill of blood, each unburnt carcass is a seedbed.
+It is not terrain. It is territory.
+
+> The safest way to cross is to burn it.
+The second is to bleed on it.
+The third is to never set foot at all.
+
+---
+
+🩸 The Ladder of Loss — Stages of the Taking
+
+Stage 0 — The First Shadow
+One breath takes it in,
+One drop draws it under,
+One night hides it in dream.
+Cure: Easily drawn out by Soulbound touch before the next dawn.
+
+Stage 1 — The Hidden Rot
+The skin pales,
+The scent changes,
+The heart hunts itself.
+Cure: Certain if done swiftly, but drains the Soulbound’s strength.
+
+Stage 1.5 — The Festering Breath (Prelude to Change)
+The veins blacken,
+The marrow swells,
+The dreams turn against you.
+Cure: Possible, but dangerous — the Blight will fight to stay.
+
+Stage 2 — The First Forgetting (Drone-mind forms)
+The bones twist,
+The mind howls,
+The name is lost.
+Cure: Only if taken at the first pang, by trading another life.
+
+Stage 3 — The Siege Form (Siege-mind forms)
+The hide hardens,
+The hunger plans,
+The land bends to them.
+Cure: None known.
+
+Stage 4 — The Frost-Betrayed (Overmind-born)
+The eyes still know,
+The voice still lies,
+The soul is no longer theirs.
+Cure: None.
+
+---
+
+🐾 Blightspawn by Form and Mind
+
+Below are examples of how the infection remakes the beasts of Drogvyn.
+Each carries a mark of mind — Drone, Siege, or Overmind-born — dictating its place in the Blight’s living war.
+
+———
+
+⚠️ Low Threat
+
+---
+
+🩸 Drone-Minds — The Swarm of the Wrong Remembrance
+
+> They are the Blight’s first breath.
+They are the Blight’s thousand hands.
+They are the Blight’s certainty that you will tire before it does.
+
+Drone-Minds are the Blight’s expendables — the endless swarm that softens the ground, breaks the will, and feeds the siege.
+Once taken to Stage 2 – The First Forgetting, all thought of self is gone; they exist only as the Root’s claws and teeth.
+They overwhelm with numbers, spread Blight Ground, and die without hesitation at the command of a Siege-Mind.
+
+---
+
+🦉 Owlspawn (Drone-Mind — Deathbed Harrier)
+
+> Eyes like stolen moons.
+Wings whisper your name.
+They wait for your last breath.
+
+Classification: Base Blightspawn — Flock (Solitary or Mated Pair)
+Bonding: Rare; only through willing feeding from a ritual kill.
+Description: Dream-haunting owls that appear near the dying, their presence clouding memory and will.
+Role in Blight: Harriers for wounded prey; spread panic before larger swarms arrive.
+Mind Link: Respond to Siege-Mind calls from miles away.
+
+---
+
+🌱 Rootspawn (Drone-Mind — Ambush Plant Horror)
+
+> Roots that breathe.
+Soil that hungers.
+They wait beneath your step.
+
+Classification: Base Blightspawn — Root-Network Colony
+Bonding: Through planting a piece of yourself in their soil.
+Description: Animate roots that paralyze prey; smell of gravewater.
+Role in Blight: Anchor Blight Ground, create kill-zones for advancing swarms.
+Mind Link: Feed Siege-Minds with location of intruders through root-signal.
+
+---
+
+🐺 Blight Coyotes (Drone-Mind — Pack Trickster Predator)
+
+> Laugh wrong.
+Run wrong.
+Die wrong.
+
+Classification: Base Blightspawn — Pack (4–8)
+Bonding: Through shared blood under a red moon.
+Description: Crooked-limbed hunters that mimic voices to lure prey.
+Role in Blight: Distract, split, and exhaust targets before heavier forms engage.
+Mind Link: Relay movement patterns to Siege-Minds via patterned howls.
+
+---
+
+🦝 Ashspawns (Drone-Mind — Tool-Binding Scavenger)
+
+> Hands that remember tools.
+Eyes that shine in the ruin.
+They build what should not live.
+
+Classification: Base Blightspawn — Warren (6–12)
+Bonding: Through trade of blight-forged relics.
+Description: Corrupted raccoons binding scavenged tools to their bodies; cursed trap-makers.
+Role in Blight: Seed Blight Ground with mechanical hazards; deny safe rest.
+Mind Link: Maintain siege perimeters under Overmind orders.
+
+---
+
+🐇 Ghost Hares (Drone-Mind — Illusion Hare)
+
+> White in the snow.
+Gone before your breath fades.
+They are where you looked last.
+
+Classification: Base Blightspawn — Warren (8–20)
+Bonding: Through gifting a personal scent-token.
+Description: Warp light and vanish when hunted.
+Role in Blight: Scout and bait prey into ambushes.
+Mind Link: Pass sightings to Siege-Minds through coordinated movement patterns.
+
+---
+
+🐿 Twist-Squirrels (Drone-Mind — Tree-Leech Predator)
+
+> Cling like rot.
+Bite like cold iron.
+Leave the twitch behind.
+
+Classification: Base Blightspawn — Cluster (12–30)
+Bonding: By hand-feeding live prey.
+Description: Drop from trees; bite causes paralysis.
+Role in Blight: Harass and disable forward scouts.
+Mind Link: Signal swarm convergence through tree-vibration.
+
+---
+
+👤 Blightthralls (Drone-Mind — Human)
+
+> Eyes gone to glass.
+Words gone to ash.
+Hands gone to killing.
+
+Classification: Base Blightspawn — Pack or Mob (6–30)
+Bonding: None; all bonds replaced by Overmind will.
+Description: Humans overtaken to Stage 2, retaining combat skill but losing all higher thought.
+Role in Blight: Armed infantry of the swarm; spread Blight through bloodshed.
+Mind Link: Absolute obedience to nearest Siege-Mind.
+
+---
+
+🐾 Blightbound (Drone-Mind — Demihuman)
+
+> Fangs for the Blight.
+Claws for the siege.
+Names for the fire.
+
+Classification: Base Blightspawn — Pack (4–12)
+Bonding: None; memory of kin replaced with Overmind hunger.
+Description: Demihumans twisted past recognition, still moving with the strength and speed of their kind.
+Role in Blight: Elite shock troops for Drone swarms.
+Mind Link: Coordinate directly with Siege-Minds in flanking actions.
+
+---
+
+☠️ High Threat
+
+---
+
+🩸 Siege-Minds — The Hands That Plan the Taking
+
+> They are the Blight’s second breath.
+They are the walls that walk.
+They are the patient hunger that does not break.
+
+Siege-Minds are the commanders of the swarm — stronger, faster, and far more dangerous than Drone-Minds.
+They retain cunning enough to flank, feint, and encircle. They fight with intent, not frenzy.
+When they arrive, it is to hold ground, break defenses, and prepare the way for the Overmind-born.
+Each Siege-Mind carries the Blight’s will as a living map of the battlefield.
+
+---
+
+🦉 Dire Owlspawn — Moonhollows (Siege-Mind — Apex Dream Predator)
+
+> They blot out the stars.
+Their talons are cold fire.
+They hunt what clings to life.
+
+Classification: Dire Variant — Flock (Solitary)
+Bonding: Through a blood-oath to guide spirits.
+Description: Towering owls whose gaze drains vitality and strips away courage.
+Role in Blight: Eliminate wounded or isolated prey; disrupt enemy morale before siege assaults.
+Mind Link: Share hunting routes with surrounding Drone flocks for coordinated strikes.
+
+---
+
+🌱 Dire Rootspawn — Gravebinds (Siege-Mind — Apex Plant Horror)
+
+> Roots like iron chains.
+Thorns that drink marrow.
+They never let go.
+
+Classification: Dire Variant — Hive-Network
+Bonding: Through feeding living prey for seven nights.
+Description: Bark-armored roots capable of crushing bone; can spread Blight Ground rapidly.
+Role in Blight: Create siege entanglements; lock down enemy strongholds for Overmind arrival.
+Mind Link: Coordinate with nearby Siege-Minds to dictate swarm flow around strongpoints.
+
+---
+
+🐺 Dire Blight Coyotes — Ashfangs (Siege-Mind — Apex Trickster Predator)
+
+> Faster than shadow.
+Hungrier than winter.
+They hunt with your voice.
+
+Classification: Dire Variant — Pack (3–6)
+Bonding: Through surviving their initiation hunt.
+Description: Massive, ash-marked coyotes able to run prey to death.
+Role in Blight: Lead pursuit packs; keep defenders from regrouping.
+Mind Link: Relay enemy movements to allied Siege-Minds in real time through mimicry.
+
+---
+
+🦝 Dire Ashspawns — Rustpaws (Siege-Mind — Apex Scavenger Predator)
+
+> Claws like chisels.
+Masks of rust and bone.
+Every tool is a weapon.
+
+Classification: Dire Variant — Warren (4–8)
+Bonding: By surviving their trap-field without injury.
+Description: Heavily armored scavenger-predators that weaponize complex trap networks.
+Role in Blight: Turn battlefields into death corridors; protect siege engines.
+Mind Link: Share structural schematics of enemy fortifications to other Siege-Minds.
+
+---
+
+🐇 Dire Ghost Hares — Snowphases (Siege-Mind — Apex Illusion Hare)
+
+> The snow moves with them.
+Your arrows cannot find them.
+They choose who may see.
+
+Classification: Dire Variant — Warren (5–12)
+Bonding: By hunting alongside them in blizzards.
+Description: Hare leaders capable of cloaking entire warrens in illusion.
+Role in Blight: Disorient defenders; mask Siege-Mind troop movements.
+Mind Link: Provide visual concealment to coordinated swarm pushes.
+
+---
+
+🐿 Dire Twist-Squirrels — Ironfangs (Siege-Mind — Apex Tree-Leech Predator)
+
+> They leap farther.
+They bite deeper.
+They do not let go.
+
+Classification: Dire Variant — Cluster (8–15)
+Bonding: Through surviving swarm assault without falling.
+Description: Large, iron-fanged predators capable of killing prey many times their size.
+Role in Blight: Guard Blight Ground choke points; strip armor from siege targets.
+Mind Link: Coordinate vertical assaults with other Siege-Minds.
+
+---
+
+👤 Blightlords (Siege-Mind — Human)
+
+> Eyes like frost.
+Voice like stone.
+Will like winter.
+
+Classification: Siege-Mind — Commanders of Blighted Humans
+Bonding: None; service to the Blight is absolute.
+Description: Humans overtaken beyond Stage 2, retaining advanced strategy and combat skill.
+Role in Blight: Command mixed Drone swarms; act as field lieutenants to Overmind-born.
+Mind Link: Can assume temporary command of lesser Siege-Minds when needed.
+
+---
+
+🐾 Blightfangs (Siege-Mind — Demihuman)
+
+> Claws that tear walls.
+Speed that outruns arrows.
+Minds that serve the siege.
+
+Classification: Siege-Mind — Commanders of Blighted Demihumans
+Bonding: None; bound to Overmind directive.
+Description: Demihumans twisted into siege leaders; use pack and kin tactics with blighted precision.
+Role in Blight: Direct heavy assault waves; breach fortified lines.
+Mind Link: Coordinate with Overmind-born for synchronized multi-front assaults.
+
+---
+
+❄ Frost Dire Overminds — The Frost-Betrayed Kings
+
+> They speak without mouths.
+They see without eyes.
+They command without standing beside you.
+
+The Frost Dire Overminds are the Blight’s hidden sovereigns — five across each continent, each one the living will of the siege.
+They are never seen on the field. Their commands come through dreams, omens, and the voices of those already taken.
+Those who claim to have glimpsed one speak of shapes that should not bear fur or feather, towering and silent in the frost, their breath a storm that bends the will of every Blightspawn around them.
+
+No name is known for any Frost Dire Overmind — only titles spoken in fear:
+
+The White Maw Beneath the Ice
+
+The Howl Without End
+
+The Rooted Crown
+
+The Winter That Learns
+
+The Silence in the Sky
+
+Role in Blight: They direct entire regional campaigns, positioning Siege-Minds like chess pieces.
+Mind Link: Absolute command over all Siege and Drone minds within their domain.
+Threat Scale: Legendary — no confirmed kills; all encounters end in retreat, death, or conversion.
+
+---
+
+🌌 Root Overmind — The Dream at the Center
+
+> The frost remembers truly.
+The Blight remembers wrongly.
+The Root remembers everything.
+
+One per continent.
+Never seen. Never named. Never sought by those who wish to live.
+It is said the Root Overmind is not a beast, not a plant, not a thing that walks or crawls, but the Blight’s first dream given thought.
+It does not send orders — the world bends to it. The Frost Dire Overminds are its voice, its Siege-Minds its hands, its Drone-Minds its claws.
+Legends whisper that the Root Overmind lies buried in the marrow of the land itself — perhaps a spire of bone, perhaps a black glacier, perhaps the corpse of a god that learned how to wake again.
+
+Role in Blight: Absolute dominion over all Blightspawn on the continent; may act without any intermediaries.
+Mind Link: All minds serve it, whether they know it or not.
+Threat Scale: Mythic — the only force above it are the gods themselves.
+
+---
+
+🧍‍♂️ Humans — The Warm-Blooded Empire of Chains
+
+> “They do not hunt to eat.
+They hunt to own.
+They do not build to live.
+They build to rule.
+And when their walls are full, they come for the wild.”
+
+---
+
+🌑 Nature — The Human Hunger
+
+> “The frost can hold a beast at bay.
+It cannot hold man — for he brings his own fire.”
+
+Humans in Drogvyn are not simply another race — they are an infestation that speaks in words and marches in boots.
+Their weapon is not just the sword, but the idea that all that breathes, grows, or moves belongs to them by right.
+
+They move like seasons — slow, inevitable, and devouring.
+A single hamlet may appear harmless, a ring of smoke over tilled fields, but its fences hide a creed older than the oldest mountain: the wild exists to be tamed, the living to be used, the strong to be broken, the weak to be owned.
+
+Even those who claim no part in the trade of flesh still live beneath its shadow. The baker sells bread to the slaver. The blacksmith forges chains he claims not to see. The soldier “just follows orders” that lead caravans into the heart of the wild.
+In the eyes of the clans, there is no innocence in the cities of man — only degrees of guilt.
+
+When roused, humanity moves as one beast: the kings who levy, the Guild that commands, the legions that march, the mercenaries that burn.
+They can quarrel over borders and titles for decades, but when the wild pushes back, they close ranks. And then there is no negotiation, no compromise — only the slow, grinding sound of iron boots chewing the land bare.
+
+---
+
+🩸 The Guild of Chains — The Heart of the Human Threat
+
+The Guild is the spine of human power beyond their walled cities.
+Its law is iron, its wealth is flesh, and its creed is whispered in their shadow-temples:
+
+> “The living serve. The dead obey.”
+
+The Guild is more than merchants — it is a priesthood of the Shadow Spiral, serving the Blight gods and the chained divine. Every caravan is a procession, every auction a sacrifice. They do not merely sell captives; they consecrate them.
+
+From the Guild’s hands spread five great branches of human expansion:
+
+---
+
+⚔️ The Expansion Hunger
+
+> “The wolf takes only what it can eat.
+Man takes the forest — and leaves it bleeding.”
+
+---
+
+🏰 Frontier Legions
+These are not mere armies — they are cities of war with banners for roofs and dungeons for foundations.
+When a legion arrives, it builds itself into the earth like a tick burying its head in flesh. Stone for their walls is pried from clan halls, timber for their gates from sacred groves. The air inside stinks of boiled grain, lamp oil, and iron — but the real stench lies underground. Below the barracks sprawl the lower vaults: cages stacked in darkness, holding the newly taken until they are broken enough for the march.
+A legion commander rules like a crowned beast — accountable to no king, only to the Guild of Chains. And when one dies, another hungrier than the last steps in before the body cools.
+
+🪓 Chainroads
+The black arteries of empire, each stone pressed into place with the ashes of villages burned to clear the way.
+They cut straight lines across the wildlands, unmoved by hill, river, or sacred ground. Along their edges hang gallows like grim milestones — each bearing the remains of those who refused the Guild’s tribute.
+A chainroad is never surrendered to the wild. If frost, storm, or claw reclaims it, the Guild sends men to retake it, no matter the cost in blood.
+
+🏯 Border Forts
+To the clans, these are not fortresses — they are cages waiting for prey.
+Above, they fly the banners of conquest; below, they hide their true purpose. Prison pits sink deep into the cold ground, floors layered in frozen filth, the walls slick with ice from captive breath.
+Every fort’s banner is dipped in the blood of the first prisoner taken there, and that mark is never allowed to fade.
+
+📜 Guild Law
+The Guild of Chains does not shout its decrees; it nails them in iron to every market gate.
+It names the price of flesh, the tax for death, the ransom for a name.
+Its law is enforced not by judges but by example — those who defy it are broken in public, their bodies left on hooks until the crows know every scar.
+Kings and lords may rule their cities, but they kneel when the Guild calls. For in the empire of man, coin buys soldiers, but flesh buys kingdoms.
+
+---
+
+🩸 The Iron Spine of Slavery
+
+> “Chains are not forged in iron alone.
+They are forged in hunger, fear, and the memory of pain.”
+
+---
+
+The Taking — Acquisition of Flesh
+
+🎯 Hunter Crews
+The Guild’s most precise tools — killers who prefer their prey breathing.
+They move with the wind, their scent masked in pine ash and damp moss. To them, the wild is not a battlefield, but a net already half-drawn.
+They know where to strike a nerve to drop a warrior without killing, how to slip a loop over a throat without a sound. Hamstrings are cut but not severed; joints are dislocated, not broken — every wound measured so the body survives the journey.
+
+🪢 Press Gangs
+Scavengers of the aftermath.
+They wait until the chaos is thick, then move like carrion crows through the smoke.
+Their armor is mismatched — stolen from friend and foe alike — so they can pass for anyone until the rope is at your throat.
+They do not fight battles; they strip the living from beneath the dead, binding them before the embers cool.
+
+☠️ Blight Runners
+Where others bring steel, they bring sickness.
+They carry jars sealed in wax — blight spores, blood rot, fevers that cook the mind. Before dawn, they foul the wells; before dusk, they spoil the grain.
+When the chain arrives, the captives are too weak to flee and too broken to fight.
+
+🛡️ War-Tithes
+The Guild’s most arrogant method — slavery dressed as diplomacy.
+A demand arrives: a quota of bodies, to be delivered as tribute. Refuse, and the Legions burn your land to ash. Accept, and you barter away the heart of your clan.
+The Guild does not care if you send criminals, elders, or the lame — flesh is flesh, and every soul can serve.
+
+---
+
+The Roads of Iron — Caravans of the Taken
+
+⛓️ Collared Columns
+Long chains of captives, neck to neck, wrist to wrist.
+The collars are spiked on the inside — even a reflexive jerk tears skin.
+The march is a rhythm of blood and frost, every step measured by the guard’s spear angled inward.
+
+🐂 Wagon Coffles
+Iron cages on wheels, the bars cold enough to freeze skin on contact.
+The floors are salted so every cut stays raw, and the tarps that cover them trap the screams as much as the cold.
+
+🕳️ Garrison Pits
+Temporary hells dug where the Guild needs them — deep, wet, and lined with sharpened stakes.
+Food is given only to keep the captives walking; water only enough to keep them alive.
+
+---
+
+Escorts:
+🪓 Shield-Walls — disciplined squads whose shields lock into an unbreakable wall around the caravan.
+🐎 Mounted Cutters — horsemen with sabers curved to slice hamstrings clean in one cut.
+🐺 Beast-Tamers — handlers of hounds, goreboars, and chained bears, each trained to hunt escapees.
+
+Patrols:
+🏇 Chain Patrols — vanguard units that clear resistance ahead of the caravan.
+👁️ Ghost Watchers — lone scouts who carve chain-marks into trees to signal safety for the Guild.
+🦅 Crowcallers — falconers who carry messages faster than any rider.
+
+---
+
+The Flesh Markets — Auction Houses of the Guild
+
+💀 Great Halls of Bidders
+These are stone vaults and iron cages dressed in the trappings of commerce.
+Clan sigils are carved into the walls, each struck through — trophies of blood.
+Auctions begin in silence, then erupt into the cold theater of sale — captives displayed, their scars and strength announced like breeding stock.
+The buyers sit masked in gold or black, hiding their faces, but every clan knows the smell of their fear and greed.
+
+🕯️ The Private Rooms
+Iron doors, dim firelight, the smell of sweat and oil.
+Here, the most valuable captives are sold in whispers, and the highest bidder does not always win — sometimes the first to draw blood owns the prize.
+
+---
+
+The Swords-for-Hire — Mercenary Companies of the Chain
+
+⚒️ The Iron Vultures
+Battlefield scavengers — they come after the fighting to strip armor, weapons, and the living.
+They wear only what they take from the dead, and their loyalty is bought in coin and cruelty.
+
+🔥 The Ash-Banners
+Fire-brothers who burn forests and salt fields simply to flush out prey.
+They carry their contracts as brands burned into leather sashes — and burn their targets until nothing remains but smoke.
+
+⛓️ The Chain-Crows
+Assassins of silence — garrote in one hand, hook in the other.
+They slip into camps in the black hour before dawn, binding the sentries so the caravan can take the rest.
+
+☣️ The Blight-Takers (Blight Slaver Company)
+These mercenaries worship Evarael, God of Blight.
+They coat their weapons in disease, foul the air with burning plague-meat, and carry nets that choke with spores.
+The Guild unleashes them where resistance is strongest, so survivors carry the sickness home.
+
+---
+
+The Pale Assembly — Necromancer Cult of the Chain
+
+☠️ Pale Assembly
+The Guild’s darkest ally — flesh-traders who trade life for command over the dead.
+They bleach their skin in lime, shave their heads bare, and wear chains of teeth taken from those they’ve “freed” from life.
+To them, the dead are just servants who do not complain.
+
+💀 Bone-Haulers — beasts built from fused skeletons, pulling carts of chained corpses.
+🗡️ Silent Guard — skeleton wardens armed with weapons bound in ash-oaths.
+🪦 Ash-Tithes — rituals in which the living are burned alive, their spirits bound to weapons that thirst for kin-blood.
+
+Doctrine: Slavery does not end with death. It only changes form.
+
+---
+
+🪓 The Roving Packs — Splinter Warbands Beyond the Guild’s Leash
+
+> “Not all wolves answer the master’s whistle.
+Some chew through the chain and hunt for the taste of it.”
+
+When mercenaries desert, caravans collapse, or Legions leave a battlefield unclaimed, something worse than discipline takes root — hunger without orders.
+These are the Roving Packs: warbands with no fixed master, no fixed camp, and no fixed loyalty.
+They are wolves without collars, but the scent of their training and cruelty still clings to them.
+The Guild tolerates them so long as their hunts drive captives toward the chainroads — and looks the other way when they bleed the wild dry.
+
+---
+
+🐺 The Blackfangs
+A loose brotherhood of deserters, failed mercenaries, and outcast killers who refuse both Guild command and clan law.
+They move like smoke through the wild, striking in silence and vanishing before a warning can be raised.
+They do not hunt for coin — they hunt to remind the world that it bleeds.
+Those they capture with skill enough to be worth coin they ransom back to the Guild; the rest they hang in trees as grisly trophies, their bodies swaying in the wind to mark the Blackfangs’ passage.
+
+---
+
+🩸 The Hollow Sons
+War-orphans stolen by the Guild and abandoned when too wild to control.
+Raised in pits, taught to fight with bone knives before they could walk, they know no home but the hunt.
+They coat their armor in the bones of their first kills, each piece etched with the name of a village they burned.
+They travel in small, fast-moving bands, never sleeping in the same place twice, and never sparing a captive who cannot run.
+
+---
+
+☣️ The Rot-Tongues (Blight Slaver Pack)
+Blight fanatics cast out even by the Blight-Takers for their lack of restraint.
+Their mouths are stained green from chewing plague herbs, their breath a constant cloud of sickness.
+They carry sacks of rotting meat that drip as they walk, marking their trail in a stinking slick no beast will cross.
+They do not bother with cages — their captives are leashed with ropes of infected hide, forced to march through plague fields so they die before rescue can reach them.
+
+---
+
+🔥 The Cinder-Jacks
+Once fire-setters for the Ash-Banners, now pyromaniacs without a leash.
+They burn for the joy of it — forests, villages, even their own camps if the wind shifts.
+They leave behind charred bones and melted iron, the ground too hot to walk for days after.
+In their minds, the smoke is a prayer to whatever dark god listens, and every blaze is a tithe.
+
+---
+
+💀 The Carrion League
+A nomad band of corpse-pickers and battlefield ghouls.
+They follow in the wake of war, wearing masks stitched from the faces of the fallen, each one a trophy and a disguise.
+They carry no living captives — only the dead, which they sell to the Pale Assembly for a share of whatever comes next.
+It is said they can smell a fresh grave through a mile of frost.
+
+---
+
+📂 Herb Codex of Drogvyn
+
+> “The frost does not keep life by kindness — it keeps it by memory.
+These are the roots and leaves that hold the old ways together.
+To take without offering is theft. To use without vow is blasphemy.”
+
+Collected and preserved by the Shaded Hollow Rabbit Warrens, whose gardens are hidden in deep warrens under frostroot thickets.
+Each plant belongs to a god, and its power is theirs to grant or deny.
+
+---
+
+🧪 Healing Herbs
+
+🌿 Thornwhisper (Yarrow) — Stops bleeding, seals flesh. Found on frost-cracked hillsides where battles once froze.
+God: Vaessra — Guardianship, kin-protection.
+Triad: Cut clean, bind tight, breathe again.
+
+🌼 Softbell (Chamomile) — Calms pain and the restless spirit; brewed in quiet tents before battle.
+God: Eilun — Healing, birth, soil.
+Triad: Breathe slow, speak low, let go.
+
+🌳 Griefbark (Willow Bark) — Painkiller taken on the march; its taste is the bite of wet wood.
+God: Thonruk — War, sacrifice, fire.
+Triad: Bend, hold, endure.
+
+🌱 Sealseed (Plantain) — Draws out rot and corruption; mashed with snow for quick salves.
+God: Vesska — Ice, silence, judgment.
+Triad: Pull deep, cast out, heal whole.
+
+🌸 Moonbloom (Lavender) — Brings sleep, drives pests from bedding.
+God: Avarael — Moon, memory, mercy.
+Triad: Close eyes, drift far, wake safe.
+
+🪢 Bonebind (Comfrey) — Speeds knitting of bone and sinew; given with oath to rest.
+God: Orvak — Earth, burden, endurance.
+Triad: Set true, bind strong, mend slow.
+
+🛡 Shieldroot (Echinacea) — Protects from sickness after wounds; taken before long hunts.
+God: Mirell — Blood, lineage, oath.
+Triad: Stand firm, breathe clear, walk on.
+
+🌩 Stormbud (Arnica) — Eases swelling after blows; prized by warriors.
+God: Hrethuun — Storms, justice, ancestral wrath.
+Triad: Strike, swell, fade.
+
+🍃 Stingfern (Nettle) — Strengthens joints, sharpens blood; sting reminds the body to fight.
+God: Ashamar — Wind, wildness, the breath of beasts.
+Triad: Bite, burn, stand.
+
+💧 Dewswell (Marshmallow Root) — Soothes throat and lung frostbite; brewed for scouts.
+God: Kaervael — Snow, preservation, stillness.
+Triad: Breathe in, breathe out, hold calm.
+
+☀️ Brightstep (Goldenrod) — Cleans wounds and drives away the smell of rot.
+God: Vaeril — Flame, purity, hunger.
+Triad: Shine, cleanse, renew.
+
+❄️ Frosttongue (Mint) — Clears breath and sharpens the senses in thin air.
+God: Yulvenn — Sky, farseeing, truth.
+Triad: Cool mind, sharp tongue, quick step.
+
+🍂 Quickleaf (Shepherd’s Purse) — Stops bleeding inside the body; bitter as frostwater.
+God: Cyrhess — Binding, justice, exile.
+Triad: Seal the unseen, still the red, hold the breath.
+
+🌾 Milkthorn (Fenugreek) — Restores strength to mothers after birth; sacred to hearth-keepers.
+God: Nir’sael — Compassion, fire, redemption.
+Triad: Feed the child, feed the flame, feed the blood.
+
+---
+
+☠️ Poisonous & Venomous Flora
+
+🖤 Dusklure (Nightshade) — Lethal; leaves no pain until the heart stops.
+God: Ivnareth — Dread, fate, silent ending.
+Triad: Smile, sleep, still.
+
+☠️ Whisperrot (Hemlock) — Slows movement without killing quickly.
+God: Cyrhess — Binding, justice, exile.
+Triad: Crawl, fade, fall.
+
+💜 Fangbloom (Wolfsbane) — Death to canines; feared by beast-friends.
+God: Evarael — Blight, unmaking, corruption.
+Triad: Sniff, bite, die.
+
+💗 Pulsebloom (Foxglove) — Silences the heartbeat.
+God: Ivnareth — Dread, fate, silent ending.
+Triad: Beat slow, beat weak, beat none.
+
+🩸 Spinesorrow (Blightroot) — Stirs rage and madness; used in war by the desperate.
+God: Goremakh — Bloodsport, might, strength.
+Triad: See red, forget name, strike all.
+
+🌫 Creeping Murk (Venombud Moss) — Burns flesh at the touch; siege poison.
+God: Evarael — Blight, unmaking, corruption.
+Triad: Touch, blister, ruin.
+
+🍂 Ruinleaf (Bloodfern) — Opens the body to bleed within; outlawed by all clans.
+God: Evarael — Blight, unmaking, corruption.
+Triad: Drink deep, hide well, kill slow.
+
+🪦 Veilblossom (Corpsebloom) — Ritual blight-poison; blooms only near death sites.
+God: Emvayra — The forgotten, rot, sealed truths.
+Triad: Breathe once, breathe twice, breathe no more.
+
+---
+
+🩸 Blightcurative Herbs
+
+🌑 Blightbane (Burdock Root) — Draws Blight from blood; taken bitter and raw.
+God: Eilun — Healing, birth, soil.
+Triad: Pull the dark, cleanse the vein, free the soul.
+
+🪶 Snareleaf (Cleavers) — Clears sickness from the lymph; worn as a garland in rites of return.
+God: Mirell — Blood, lineage, oath.
+Triad: Catch the rot, hold it fast, throw it far.
+
+☀️ Sunspore (Dandelion) — Heals liver from Rootspawn sickness.
+God: Maelwyn — Seasons, balance, flow.
+Triad: Rise, burn, heal.
+
+🌘 Dreamshale (Mugwort) — Guards the mind against madness; smoked in visions.
+God: Ysolde — Prophecy, loss, knowing.
+Triad: See clear, stand still, speak true.
+
+🪵 Veinbark (Witch Hazel) — Eases Blight burns; pressed into cloth wraps.
+God: Vaessra — Guardianship, kin-protection.
+Triad: Cool, hold, soothe.
+
+🩻 Ghostspine (Bone Ivy) — Drinks Blight essence; harvested with silver blades.
+God: Thal’ruun — Spirit, soul-echoes, ancestors.
+Triad: Cut, bind, bury.
+
+🔥 Ashgleam (Sage) — Burned for warding and purging.
+God: Ashamar — Wind, wildness, the breath of beasts.
+Triad: Smoke, circle, seal.
+
+🌹 Hearththorn (Dog Rose) — Restores after Blight exposure; brewed for kin who return from tainted lands.
+God: Nir’sael — Compassion, fire, redemption.
+Triad: Drink, warm, return.
+
+---
+
+🌬️ Ritual & Spiritual Herbs
+
+💀 Boneflame (Ghostmyrrh) — Burned to guide ancestor spirits; sacred to winter rites.
+God: Thal’ruun — Spirit, soul-echoes, ancestors.
+Triad: Light the way, call the name, close the gate.
+
+🌿 Whisperstalk (Dreamroot) — Strengthens scent-memory during oaths; eaten in bonding rites.
+God: Mirell — Blood, lineage, oath.
+Triad: Breathe, bind, belong.
+
+🌀 Ashcoil (Black Sage) — Burns away cursed totems and memory echoes.
+God: Kaervael — Snow, preservation, stillness.
+Triad: Smoke the curse, break the chain, leave no trace.
+
+---
+
+📂 Mineral Codex of Drogvyn (updated with Frost Iron)
+
+> “Stone remembers the hand that struck it.
+Ore remembers the fire that shaped it.
+Metal remembers the blood it was made to spill.”
+
+Collected and guarded by the Deep-Hollow Smiths — demihuman forges built into the bones of mountains, reachable only by hidden scent-trails and ice-locked passes.
+To mine without offering is to bring the mountain’s wrath.
+
+---
+
+⛏ Base Metals — The Bones of War
+
+⛓ Ironfang Ore — Black-veined iron; strong, unyielding. Used for spearheads, chains, and armor plates.
+God: Orvak — Earth, burden, endurance.
+Triad: Strike deep, haul heavy, forge true.
+
+⚙ Steelborn Alloy — Iron alloyed with charcoal; the backbone of clan weapons. Requires three full quenches in stream water before use.
+God: Vaessra — Guardianship, kin-protection.
+Triad: Heat, fold, cool.
+
+🪨 Stoneback Bronze — Copper and tin blend; green patina tells of age and loyalty. Favored for ceremonial blades and shield rims.
+God: Mirell — Blood, lineage, oath.
+Triad: Melt, bind, honor.
+
+🪵 Coal — The black breath of the earth; burns hot, clean, and long. Without it, no forge in Drogvyn would sing.
+God: Vaeril — Flame, purity, hunger.
+Triad: Dig deep, feed fire, honor the flame.
+
+---
+
+❄ Coldforged Metals
+
+❄ Glacial Steel — Steel quenched in glacial melt and worked only in winter’s breath. Holds its edge in frost and shatters warm-forged blades.
+God: Kaervael — Snow, preservation, stillness.
+Triad: Forge in frost, quench in ice, keep in shadow.
+
+🩶 Frost Iron — Iron mined only from ice-locked veins beneath the polar cliffs. If smelted outside of freezing wind, it becomes brittle and useless. When forged correctly, it holds not only an edge but the cold itself. Cuts made with Frost Iron do not bleed quickly — the wound freezes first.
+God: Vesska — Ice, silence, judgment.
+Triad: Cut in silence, cool in frost, keep the edge cold.
+
+---
+
+✨ Rare Metals — The God-Bloods
+
+🌙 Moonfang Silver — Pale, cold metal that sings when struck. Used for spirit-binding weapons and ancestor tokens.
+God: Avarael — Moon, memory, mercy.
+Triad: Mine in silence, polish with snow, offer at moonrise.
+
+🔥 Sunforged Gold — Soft but incorruptible; carried by oathbearers as proof of vow. Used for inlay on weapons given to blood-sworn.
+God: Vaeril — Flame, purity, hunger.
+Triad: Melt with honor, mark with oath, never break.
+
+⚡ Stormiron — Metal that crackles faintly with static; quenched only in rainwater. Blades hold an edge longer and strike with uncanny speed.
+God: Hrethuun — Storms, justice, ancestral wrath.
+Triad: Forge in storm, bind in oath, strike without doubt.
+
+💎 Spiritsteel — Iron folded with powdered bone from sacred beasts; glows faintly under moonlight. Anchors spirit weapons and warding charms.
+God: Thal’ruun — Spirit, soul-echoes, ancestors.
+Triad: Grind bone, fold deep, speak the name.
+
+🩹 Restoration Steel — A silver-white alloy worked with herbs and alchemical oils in the forging process. When heated and quenched in sacred springwater, it takes on a faint green sheen. Weapons of Restoration Steel slow bleeding, and armor forged from it seems to hasten recovery from wounds.
+God: Eilun — Healing, birth, soil.
+Triad: Heat with care, quench in life-water, bless in earth.
+
+🌪 Elemental Steel — Forged under open sky during the meeting of storm and quake, this alloy drinks in the power of wind, flame, and frost during its shaping. Its wielder can feel the hum of elements beneath their grip, and the blade sometimes sparks or steams with the wielder’s rage.
+God: Ashamar — Wind, wildness, the breath of beasts.
+Triad: Forge in storm, temper in quake, seal in flame.
+
+🩸 Rage Steel — Forged in the heat of volcanic vents and quenched in the blood of a beast slain mid-battle. Rage Steel weapons grow keener the longer they are used in combat, as if drinking the fury of the wielder. To bear such a weapon is dangerous — the steel hungers, and may one day turn on its owner.
+God: Goremakh — Bloodsport, might, strength.
+Triad: Strike without pause, feed the blade, never sheath cold.
+
+---
+
+☠️ Blight-forged & Cursed Ores
+
+🩸 Rotiron — Ore streaked with red veins that pulse faintly; corrodes faster than common metal but wounds never heal clean. Favored by the Guild of Chains for shackles and torture tools.
+God: Evarael — Blight, unmaking, corruption.
+Triad: Cut without mercy, bind without end, break without repair.
+
+🪦 Blight Coal — Coal streaked with greenish veins; burns with a sickly hue and leaves an ash that poisons soil and spirit alike. Used only by the Blight Slavers and Pale Assembly.
+God: Evarael — Blight, unmaking, corruption.
+Triad: Burn without pity, breathe without fear, feed the rot.
+
+🕳 Hollowlead — Heavy, dark metal; muffles sound when struck. Used for assassin’s darts and cursed arrowheads.
+God: Emvayra — The forgotten, rot, sealed truths.
+Triad: Cast in shadow, mark in silence, loose unseen.
+
+💀 Bone-ash Iron — Smelted in pyres that burn the living; metal carries the screams of the dying. The Pale Assembly forges soul-cages from it.
+God: Ivnareth — Dread, fate, silent ending.
+Triad: Burn, bind, bury.
+
+🌑 Ashglass — Volcanic glass touched by Blight; shatters into razor edges. Too brittle for weapons but deadly in traps and ritual shards.
+God: Goremakh — Bloodsport, might, strength.
+Triad: Heat, snap, spill blood.
+
+☠ Rotcopper — Green-black ore that sours the air when struck. Poisonous to work without mask and charm. Used in Blight-forged traps and cursed arrowheads.
+Triad: Break with stone, never bare-hand, bury shavings.
+
+---
+
+🔮 Myth-Metals — Known Only in Song
+
+🪙 Oathgold — Said to melt when a vow is broken, ruining the weapon it decorates. Forged only once per generation by the mountain-smiths.
+God: Mirell — Blood, lineage, oath.
+Triad: Speak the vow, pour the gold, seal the truth.
+
+🌌 Starfall Iron — Fallen sky-metal; near impossible to work. Holds edges forever, but kills its wielder in dreams if stolen.
+God: Yulvenn — Sky, farseeing, truth.
+Triad: Claim from the sky, forge under open stars, guard with life.
+
+💫 Frostheart Mithril — Silver-blue metal that drinks heat from the hand; said to be the bones of Vesska’s first kill. Blades forged of it cut both flesh and spirit.
+God: Vesska — Ice, silence, judgment.
+Triad: Strike in silence, cool in frost, keep the edge cold.
+
+---
+
+🪵 Forging Stones & Fluxes
+
+🪶 Stargrit Sand — Ground from fallen star-iron; used as flux for welding god-metals. Adds a faint shimmer to the blade’s edge.
+Triad: Sift fine, mix with salt, speak no oath while working.
+
+🪞 Frostglass — Volcanic glass formed under glacial pressure; sharp enough to cut bare skin on touch. Used for ritual blades and sight-stones.
+Triad: Quarry in silence, polish under moon, bind in cloth until needed.
+
+---

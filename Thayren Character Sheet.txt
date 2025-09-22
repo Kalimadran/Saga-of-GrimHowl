@@ -1,0 +1,121 @@
+🕯️ Thayren, Graveborn of the Frost
+
+Class: Necroscope  
+Age: Unknown — frostborn, soul-marked  
+Race: GrimHowl Demihuman (ashen-eyed, spirit-walked)  
+Region: Northeastern Wilds  
+Status: Echo-Binder | Bone-Seer | Hollowborn  
+Combat Role: Area Control / Spirit Summoner / Lore-Diver  
+Scent Signature: Grave moss, weeping willow, fresh-turned earth
+
+---
+
+🧬 Backstory
+
+Thayren’s first breath was not his own.
+
+Born beneath a black birch tree during a storm that cracked mountain ice, he was still, blue-lipped, and scentless. His mother — a bone-witch of the Hollowline — bound his limbs in wolfbone twine, carved his name into ash bark, and buried it beside the skull of her father.
+
+Three nights passed. On the fourth, the wolves stopped howling.
+
+When she returned, he was standing among the graves — silent, watching, alive in a way no newborn should be.
+
+He does not shift. He does not rage.  
+But the dead remember him, and he remembers them.  
+He walks with the frost in his lungs and the whisper of every bone he’s ever touched.
+
+---
+
+💠 Core Traits
+
+- No Rage Shift: His rage becomes spirit-force and ancestral disruption. No shift form.
+- Spirit Memory: In any place death has occurred, Thayren remembers one death — name, scent, and final emotion.
+- Frostbound Soul: Immune to possession, Blight-channeling, and echo inversion.
+- Bone-Touched: Physical contact with bones grants fragments of instinct, pain, or knowledge — never verbal, always sensed.
+- Silent Communion: Thayren speaks to the dead through scent, echo, or ritual. He does not defile — he honors and remembers.
+
+---
+
+🪓 Weapons & Gear
+
+Thayren wields only bone — shaped by memory and silence.
+
+- Weapon Types:
+  - One-handed bone daggers, sickles, femur blades
+  - Ritual or combat staves (bone, frostwood, purified Blight-carved)
+- Armor: Bone-thread wraps, shoulderplates of skull, spine-threaded cloaks
+- All gear gains properties based on the origin of the bones used.
+
+Bonegear Examples:
+- Direwolf femur spear: Tracks moving targets with instinct
+- Ancestor rib pauldrons: Whisper guidance during ambush
+- Blightspawn skull staff: Amplifies spirit damage; strains sanity
+- Frost elk spinal cloak: Grants terrain memory, cold resilience
+
+---
+
+🗡️ Combat Abilities
+
+bonewall...  
+Raise a jagged wall of ancestral bone — blocks scent trails, line of sight, and slows charges.
+
+bone shield...  
+Wrap one arm in bone-spiral — intercepts 1–2 strikes. Echo-chime on impact.
+
+bone spear...  
+Launch a femur-spear. May pin targets or trigger fear if cast post-consume echo.
+
+wraith spirit...  
+Summons a frostbound ancestral wraith to disrupt foes.  
+If slain, splinters into 3 ancestral shades that persist 6 seconds.
+
+grave-bind...  
+Bone shards root enemies. Breaks formation and morale.
+
+spiritguard...  
+Shields an ally in ancestral echo. Absorbs one fatal strike.
+
+consume echo...  
+Touch to bone/blood to absorb memory. Gain one of: terrain foresight, lore fragment, healing pulse.
+
+ancestral cry...  
+Unleash a death-infused howl:
+- Humans: hallucinations, speech loss
+- Spellcasters: chant disruption
+- Blightspawn: form-glitch or panic
+- Totem Beasts: submit or frenzy (based on dominance)
+
+skullchant... *(ritual only)*  
+Carve a name, bleed memory, speak to the remembered dead.
+
+---
+
+🐺 Instinctual Profile
+
+- Pauses at unburied graves
+- Whispers names in sleep
+- Protective of bone sites
+- Tenses near false spirits
+- Scent shifts subtly with echoes
+
+---
+
+🪶 Totemic Symbol
+
+Frost-bleached wolf skull circled in crowbones and obsidian twine.
+
+---
+
+📊 Combat & Narrative Profile
+
+| Attribute         | Rating | Notes |
+|------------------|--------|-------|
+| Damage           | ★★★★☆ | Spirit and bone-based — accumulates  
+| Defense          | ★★★☆☆ | Terrain + summons, not brute durability  
+| Battlefield Control | ★★★★★ | Wraith + cry + binds create flow control  
+| Lore Discovery    | ★★★★★ | Bone memory, echo communion  
+| Survivability     | ★★★★☆ | High when managed carefully  
+| Roleplay Depth    | ★★★★★ | Bonecraft, ancestral speech, scent-layered interactions
+
+🧠 Memory Tracking
+Thayren can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.

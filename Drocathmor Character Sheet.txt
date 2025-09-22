@@ -1,0 +1,188 @@
+📂 Drocathmor
+
+🐺 Drocathmor, Stormblood of the GrimHowl
+
+Class: Rage Shaman
+Age: 18
+Race: GrimHowl Demihuman (Human-passing)
+Region: Northeastern Wilds
+Status: Last of His Line | Fugitive | Spirit-Warden
+Combat Role: Elemental Support / Midline Controller / Ancestral Summoner
+Scent Signature: Ozone, pine smoke, scorched moss
+
+---
+
+🧬 Backstory
+
+Drocathmor was born after the death of his clan. No songs, no fangs in the fire, no rites. Just snow, shackles, and silence. His first memory is of chains. His second is of lightning.
+
+When a slaver struck a child beside him, Drocathmor screamed — and the sky answered. The convoy burned, and he fled barefoot into the cold.
+
+Now the elements obey his rage. Spirits howl in his wake. He does not shift, but he remembers.
+
+---
+
+💠 Core Traits
+
+No Rage Shift: All rage is converted into elemental/spiritual force
+Human-Passing: Cannot be identified as demihuman unless actively channeling
+Youngblood Instinct: Builds rage quickly when allies are harmed
+Spirit Sensory: Feels blood memory, ancestral echoes, and unspoken pain in places
+
+---
+
+⚡ Combat Overview
+
+Spellcaster: Evolves powerful elemental spells
+Support: Healing, totemcraft, battlefield control
+Summoner: Can call spectral wolves that scale into permanent allies
+Fighter: Proficient in dual-wielding, claws, or weapon + shield
+Aura-Bearer: Maintains cloaks and enhancements until mid- or end-fight
+
+---
+
+🔺 Elemental Spell Evolution
+
+Tiered system – each path evolves through use.
+
+❄️ Ice Path
+1. Iceshock – Slows enemy
+2. Ice Spike – Staggers, pierces armor
+3. Icy Spear – Roots target with precise frost projectile
+
+🔥 Fire Path
+1. Flameshock – Burns over time
+2. Inferno – Creates flaming AoE
+3. Lava Burst – Delayed explosive impact
+
+🌍 Earth Path
+1. Earthspike – Erupts beneath enemy
+2. Quicksand – Saps movement and stamina
+3. Earthquake – AoE knockdown and terrain fracture
+
+⚡ Lightning Path
+1. Lightning – Direct damage bolt
+2. Chain Lightning – Arcs through 3 targets
+3. Ball Lightning – Pulsing AoE orb that stuns and arcs
+
+---
+
+✋ Healing Spell Progression
+
+1. Healing Hands – Direct target healing
+2. Chain Heal – Jumps to multiple allies
+3. Spiritweave – Links allies; healing distributed by your damage output
+
+---
+
+🧥 Elemental Cloaks (Combat-Phase Duration)
+
+One active at a time. Ends mid-fight or when the battle ends. Milestone scaling.
+
+Flame Cloak – Burns all enemies within 5 ft
+Frost Cloak – Slows enemy movement and reflexes
+Lightning Cloak – Zaps enemies periodically
+Earth Cloak – Grants knockback resistance; slows charging foes
+
+Effects increase in strength and size with repeated use (up to 7 ft radius, added auras, fear pulses, lingering ground effects)
+
+---
+
+⚔️ Weapon Enhancements (Combat-Phase Duration)
+
+One active at a time. Ends mid-fight or at fight’s conclusion. Milestone scaling.
+
+Windfury – Increases attack speed and flurry chance
+Flame Tongue – Adds fire damage and burn
+Frost Tongue – Slows target on hit
+Stoneblade – Boosts attack damage and stagger potential
+
+Dual enhancements possible when dual-wielding: each weapon can hold a separate effect.
+
+---
+
+🪔 Totemcraft – Spirit-Forged Constructs
+
+Max 4 active at once. Totems evolve through use.
+
+Healing Path
+Healing Totem → Renewal Totem → Guardian Totem
+Heals in pulses, improves under pressure, adds damage resist aura
+
+Fire Path
+Spitting Flame Totem → Emberjaw Totem → Maw of Cinders
+Casts fire spells at weak enemies, burns wider areas, causes fear
+
+Frost Path
+Icy Blast Totem → Winterfang Totem → Totem of Hollow Silence
+Freezes, chills, and silences foes in aura radius
+
+Wind Path
+Windfury Totem → Howl Totem → Totem of the Stormpack
+Grants flurry, speed, and morale boost to nearby allies
+
+> Unlockable Advanced Totems:
+Ashstorm Totem – Fire + Wind combined
+Wyrdfang Totem – Channel ancestral wolf into battlefield directly
+
+---
+
+🐺 Ancestral Spirit – Ghostfang Lineage
+
+Summon spectral wolves to fight at your side. Increases with use.
+
+Start with 1–2 Frost Direwolves (30 sec duration)
+Progresses to up to 4 wolves
+Duration scales with rites and battlefield use
+
+Final evolution: Named Spirit Alpha (permanent, story-bound companion)
+
+Wolf Types:
+Icefang – Applies slow
+Shadowfang – Blinds from flank
+Howlbound – Reduces enemy morale
+Wyrdclaw – Weakens spirit-based foes
+
+---
+
+🗡️ Weapon Proficiency
+
+Allowed Styles:
+Dual-Wielding: Any mix of one-handed weapons (can hold two elemental imbues)
+Weapon + Shield: Increases survivability, totem tanking, and allows spirit focus
+Claw Weapons: Bone talons, spirit claws — fast, primal, flurry-friendly
+Single Weapon: Best for casting flow and clean rage management
+
+Claws scale excellently with Windfury, Flame Tongue, and melee-focused casting hybrids.
+
+---
+
+🧳 Preferred Gear & Slots
+
+Weapon Type: One-Handed only (claws, short axe, ritual blade, bone mace)
+Armor: Light (fur, hide, bone-thread, talisman-woven garb)
+Talisman Slots: 2
+Totem Cooldown Focus
+Rage Efficiency Charm
+
+---
+
+🔻 Rage Pool Usage
+
+Gain Rage by:
+Dealing or receiving damage
+Healing others
+Totem placement
+Seeing allies fall
+
+Spend Rage on:
+Elemental Spells
+Totem Deployment
+Weapon/Armor Enhancements
+Spirit Summoning
+Healing / Spiritweave
+
+🧠 Memory Tracking
+Drocathmor can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.
+
+---

@@ -1,0 +1,75 @@
+⚡ Combat Overview
+
+Spellcaster: Evolves powerful elemental spells
+Support: Healing, totemcraft, battlefield control
+Summoner: Can call spectral wolves that scale into permanent allies
+Fighter: Proficient in dual-wielding, claws, or weapon + shield
+Aura-Bearer: Maintains cloaks and enhancements until mid- or end-fight
+
+---
+
+🔺 Elemental Spell Evolution
+
+Tiered system – each path evolves through use.
+
+❄️ Ice Path
+1. Iceshock – Slows enemy
+2. Ice Spike – Staggers, pierces armor
+3. Icy Spear – Roots target with precise frost projectile
+
+🔥 Fire Path
+1. Flameshock – Burns over time
+2. Inferno – Creates flaming AoE
+3. Lava Burst – Delayed explosive impact
+
+🌍 Earth Path
+1. Earthspike – Erupts beneath enemy
+2. Quicksand – Saps movement and stamina
+3. Earthquake – AoE knockdown and terrain fracture
+
+✋ Healing Spell Progression
+
+1. Healing Hands – Direct target healing
+2. Chain Heal – Jumps to multiple allies
+3. Spiritweave – Links allies; healing distributed by your damage output
+
+---
+
+🧥 Elemental Cloaks (Combat-Phase Duration)
+
+⚔️ Weapon Enhancements (Combat-Phase Duration)
+
+🪔 Totemcraft – Spirit-Forged Constructs
+
+🐺 Ancestral Spirit – Ghostfang Lineage
+
+🗡️ Weapon Proficiency
+
+Allowed Styles:
+Dual-Wielding: Any mix of one-handed weapons (can hold two elemental imbues)
+Weapon + Shield: Increases survivability, totem tanking, and allows spirit focus
+Claw Weapons: Bone talons, spirit claws — fast, primal, flurry-friendly
+Single Weapon: Best for casting flow and clean rage management
+
+🧳 Preferred Gear & Slots
+
+Weapon Type: One-Handed only (claws, short axe, ritual blade, bone mace)
+Armor: Light (fur, hide, bone-thread, talisman-woven garb)
+Talisman Slots: 2
+Totem Cooldown Focus
+Rage Efficiency Charm
+
+---
+
+🔻 Rage Pool Usage
+
+Gain Rage by:
+Dealing or receiving damage
+Healing others
+Totem placement
+Seeing allies fall
+
+🧠 Memory Tracking
+Drocathmor can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.
+
+---

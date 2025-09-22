@@ -1,0 +1,1579 @@
+🌍 Drogvyn World Setting Sheet
+
+🌐 Planet Overview
+Name: Drogvyn
+Type: Super-Earth analog with a complete, Earth-like biosphere
+
+Climate:
+Equator: Scorching heat, vast deserts, jungles, and volcanic zones
+Mid-Zones: Temperate forests, plains, steppe, and mixed climates
+Poles: Harsh arctic zones with eternal glaciers and frost-bitten winds
+
+Seasonal Cycle: Four full seasons per region
+Continents: 23 total landmasses
+
+Unique Geological Feature:
+The Spine of Drogvyn — a continuous mountain chain from mid-latitudes to the poles, stretching across all continents and deep-sea ridges. Said to be the bones of a slain sky-serpent god. Filled with towering peaks, ice valleys, primal terrain, and lost relics of the First Hunt.
+
+🔥 World Threats
+
+1. 🧍 The Humans — Ash of a Forgotten Fire
+
+> “They do not belong to the frost.
+They belong to the ruin they carried with them.”
+
+Humans walk the passes as if they own them, yet no mountain carries their scent.
+They do not remember in the way of clans, nor bind in the way of oaths.
+Instead they cling to fragments of the old world — iron that still spits fire, glass that still hums with voices, machines that still crawl though their makers are bones.
+They spread not by kin but by hunger: fortress stacked upon fortress, valley seized and salted, kin-chains broken and sold.
+Where Blight consumes, they build walls. Where silence falls, they shout. Where frost remembers, they burn.
+The clans say they are not a people, but a scar: a reminder of what the world once was, and a warning of what it may become if the frost does not hold.
+
+(For their flesh, diet, and corruption-marked variations, see: Flora & Fauna & Mineral.txt.)
+
+2. 🩸 The Blight — Frost’s Rot That Remembers
+
+> “It does not kill as fire kills.
+It kills as memory does — slowly, without mercy, until nothing of you remains.”
+
+The Blight is no single wound, but a hunger that spreads through soil, root, blood, and oath.
+It rots the marrow of beasts, blackens the veins of men, and makes trees whisper with mouths that are not their own.
+Those it touches forget their scent, their kin, their name — until they serve only the frostless silence.
+Stone itself may turn against the hand, birthing Blight-iron and marrow-ore, metals that cut deeper than steel and curse the bearer who wields them.
+No cure is carved; only fire, salt, or the silence of winter can halt its claim.
+The clans say it is not death, but memory turned inside out — a scar that grows until the world itself is hollow.
+
+(For its mutations of beast, root, and ore, see: Flora & Fauna & Mineral.txt.)
+
+3. 🐺 The Beasts — Howl of the Old Blood
+
+> “Clans are not the only kin that remember.
+The beasts, too, carry the frost in their marrow.”
+
+Direwolves, sabertails, storm-marked bears, and carrion flocks do not rise in chaos alone.
+They surge in seasons, as if bound by an oath older than man or demihuman.
+Some are twisted by Blight, their flesh fused with ore and shadow; some are kin-marked, carrying the frost’s memory in fang and bone; others simply move with the hunger of winter.
+When they rise together, valleys burn, passes vanish beneath claw and bone, and even the gods’ omens fall silent beneath the howling.
+The clans know: these uprisings are not accidents of nature. They are reckonings — reminders that man and kin are not masters here, but trespassers in a world whose breath is older than their names.
+
+(For natural, corrupted, and kin-marked beasts in full, see: Flora & Fauna & Mineral.txt — Beasts section.)
+
+🧬 Dominant Species
+
+Humans
+Control major cities and armies
+Technological advantage, moral fracture
+
+Demihumans
+Species-based clans (rabbit, fox, raven, wolf, feline, etc.)
+Use the Old Ways — spiritualism, natural magic, and instinct
+Enhanced senses, speed, reflexes, and spiritual connection to land
+Hidden in wild or forbidden zones due to persecution
+
+📂 Region
+
+🧭 Northeastern Region World Setting Sheet
+One of four global macro-regions of Drogvyn. Contains 6 of the 23 landmasses.
+
+🌐 Geographic Structure
+Landmasses: 6 total (ranging from jagged mountain islands to tundra-locked subcontinents)
+Terrain:
+Frozen pine taiga, icebound highlands, deep primal forests
+Glacial river valleys, cliff systems, snow-covered steppe
+Active permafrost zones and long-dormant volcanic ridges
+The Spine of Drogvyn: Fractures this region into east and west halves; impassable in winter.
+
+❄️ Climate & Seasons
+Extreme Seasonal Shift
+Winters: Sub-zero, blizzard-prone, months of darkness
+Summers: Brief, flood-heavy, dense insect swarms
+Hazards:
+Avalanche zones, river breakouts, glacial shears
+Blight-freeze zones in the north where time distorts and frost burns
+
+🧬 Demihuman Presence
+Clans Active in the Region:
+Falcon (Windpierce Flight) — swift dive-strikers who relay lightning-born messages
+Winter’s Paw (Lynx) — horizon watchers and alpine ambushers
+Hollowfang Pact (Coyote) — lorebound tricksters and spirit-pranksters who cross clan boundaries
+Frostclaw (Snow Tiger) — Once thought extinct after the Blight War, the Frostclaw survive as a small but lethal strike force under the Iron Accord. Their most famous living member is Eirlys, whose name is spoken with respect and caution in equal measure.
+Chipped Fang (Wolf) — dominate the southern ridges in well-structured packs
+Shrouded Mist (Fox) — operate in the fog valleys; agents and watchers
+Shaded Hollow (Rabbit) — maintain deep burrows in forest shadowzones
+Shadowed Wing (Raven) — migrate overhead and gather around old ruins
+Duskhollow Watch (Mountain Lion) — maintain highland cairns and passes
+Ashgaze Kin (Raccoon) — trap-makers in the ruins, scavenging the dead
+Stonebound Maw (Bear) — serve as protectors of ancient glacier altars
+Emberback (Bobcat) — scattered, fierce, nearly unseen
+GrimHowl — Believed extinct. Two known remain: Derknoth, and Drocathmor. The Lost Valley calls.
+
+Demihuman Strongholds (Hidden):
+Buried warrens, ancestral ruins, spirit-glades, cliff-fort sanctuaries
+
+Known Trade Paths:
+Only 3 still exist; heavily trapped, patrolled, and obscured by scent rituals
+
+🧍‍♂️ Human Presence
+Cities:
+Hearthdeep — major trade city; built atop demihuman grave-field
+Vornhal Reach — river fortress-city; exports furs, slaves, relics
+Kestrelpoint — coastal launch hub for inland expeditions
+
+Towns (approx. 20):
+Mix of mining camps, logging outposts, and slave-catch stations
+
+Slaver Strongholds (Known):
+Greyhook Bastion — mountain-guarded prison/slaver port
+Siltknife Crossing — bridge-fort over Blightfed river; used for illegal auctions
+Rookvale Blackhall — hidden fortress-market where bonded are traded for tech
+
+Military Patrols:
+Limited to key river routes and passways; occasional purge squads during summer
+
+🔥 Cultural Friction & Lore
+Human Superstitions:
+“Snow-born eyes curse memory.” (Fear of demihuman gaze)
+Frostclaw pelts believed to grant sexual virility
+Demihuman blood used in ritual fertility drugs by noble castes
+
+Rogue Human Factions:
+The Palechainers — Blight-worshipping slaver cult
+Thorne Priory — hermits that keep Blightscroll prophecies
+The Reclaimers — human rogue soldiers aiding escaped demihumans
+
+🌑 Blight & Myth
+Encroachment Signs:
+Blight ice cracks forming in the far northeast
+Sorrow Stags seen weeping blood into glacial rivers
+Rootspawn slithering beneath snowpack
+
+Rumors of The Forgotten:
+A “Wound beneath the Spine” speaks in raven sleep
+“The Howl Beneath Fire” — believed to be a GrimHowl ancestor sleeping in flame-ice convergence
+
+🗺️ Navigation & Hazards
+Frozen Roads (Seasonal):
+Only safe for passage in late spring or pre-frost fall
+
+Spirit-Marked Stones:
+Used by Shaded Hollow and Duskhollow to mark ancient territory
+
+Collapsed Trade Forts:
+Over a dozen from old demihuman-human trade age; now ghost-haunted
+
+🧭 The Lost Valley Thread
+Derknoth’s scent memory sometimes triggers at old cairns or ruined shrines
+Phrases in old Wolf-Fang script reference “The Spire that Sleeps” and “The Flame in the Cold”
+Some say a frost-born direwolf buried a bone there… still wet with blood centuries later
+
+🌨️ Skarnheim – Northeastern Continent
+
+A frost-ravaged, elevation-split land of broken strongholds, oathbound demihuman kin, and human warfronts. Skarnheim holds the remains of the earliest resistance and the deepest Blight-root corruption.
+
+---
+
+🧍 Human-Controlled Locations (20)
+
+1. Frosthold Crossing – Central fortress city controlling the trade choke near the Pale Spine.
+2. Ironmarch Bastion – Heavily fortified outpost supplying forward troops.
+3. Saltspire Depot – Vertical trade tower collecting brine, metals, and scar-dust.
+4. Tithegate – Religious tax enclave securing ancestral relics.
+5. Emberrest – Burnt village rebuilt as a quarantine checkpoint.
+
+🐺 Demihuman-Controlled Locations (20)
+
+6. Hearthshard Clutch – Hollowmane warpack den and spirit-singer refuge.
+7. Totemreach – Echo-chambered canyon carved with blood-memory rites.
+8. Greythorn Watch – Frost cliff sentinel post guarded by bonded direwolves.
+9. Shiverfang Dell – Kin birthing ground now sheltered by vow-weavers.
+10. Feralroot Grove – Sacred growth tied to ancient pact with ash-trees.
+
+🔗 Slaver Outposts (20)
+
+11. Chainfront Ledger Pit – A slaver clearinghouse managed by chainbound overseers.
+12. Blackhaul Cagewarren – Holding pens stacked into ice-blasted gulches.
+13. Thornjaw Depot – Training ground for flesh-breaker units.
+14. Palebrand Stockade – Caravan collection node for demihuman slaves.
+15. Blistergate – Traitor port moving black-scrip and frost-branded prisoners.
+
+☣️ Blight-Claimed Zones (20)
+
+16. Blisterroot Hollow – Blight-vein crater leeching smoke and memory.
+17. Mireglass Field – Glassy tundra where reflections whisper unspoken names.
+18. Witherbind Fault – Constant tremor zone sprouting boneblight flora.
+19. Gravecurl Rise – Risen terrain of gnawed frostbone and echo-moans.
+20. Bilespire – Towering pustule of semi-sentient Blightstone.
+
+---
+
+🏚️ Ruins – Human & Demihuman (25)
+
+1. Stonegleam Teeth
+> Totemic pillar-field shattered by totem-break chants during the final retreat.
+2. Glassridge Enclave
+> Ritual-glass outpost fractured from within during a frostquake, shattering echo wards and memory seals.
+3. Saltfire Outcrop
+> Brine-forged fortress turned slagheap after Blight siege ruptured its magma reservoirs.
+4. Skyhowl Cavern
+> A vertical ritual sink where shamans once summoned storm-voices — now collapsed and echo-dead.
+5. Moongrave Bastion
+> Demihuman warhold where blood-priests entombed oathbreakers in sky-facing sarcophagi.
+6. Palehook Watch
+> Human signal tower toppled during a kin revolt; its beacon still glows beneath the snow.
+7. The Shattered Kinring
+> Site of a final warpack council — cracked open by treachery and froststeel artillery.
+8. Thren Hollow
+> A frostsong burial cave, silenced when the Blight corrupted its voice-mineral veins.
+9. Crucible Steps
+> A staircase of molten-bonded bones used to test fire oaths, now half-melted by a Blight surge.
+10. The Gloam Yard
+> Shadowed plateau where moonblood rites failed — abandoned and unapproachable at dusk.
+11. Vowmelt Cross
+> A convergence point where blood oaths once fused iron and bone; scorched during retreat.
+12. The Mirrored Grave
+> Human mausoleum filled with frostglass panels — all now weep false reflections.
+13. Ashlung Ramparts
+> A burnwall of bone-charred wood, shattered by siegeflame and later buried in black ash.
+14. Rimecall Arch
+> A ceremonial arch that summoned memory-spirits, now cracked and whispering strange names.
+15. Kinlock Bastion
+> A demihuman honor-hold overwhelmed by spirit-fire. Walls still bear claw-etched regrets.
+16. Spire of the Blackened Eye
+> A Blight-corrupted observation spire, toppled during a failed cleansing rite.
+17. The Cold Spindle
+> An underground loom-hall for weaving ice-thread banners; destroyed during spirit-collapse.
+18. Hollow Pyre
+> A massive ceremonial burn pit where kin once returned to ash — now inert and desecrated.
+19. Scarvale Drift
+> A collapsed canyon fortress that now houses snow-sunk Blight flora.
+20. Tundrake Hold
+> Frost-buried demihuman garrison, sealed during the Second Frostquake.
+21. Redtooth Vane
+> Tower adorned with fang-totems, destroyed in a raid by Blight-mutated direwolves.
+22. Brinewound Cradle
+> A ritual well-site corrupted when the salt turned to blood.
+23. Oathchisel Reach
+> Bladed cliff-face where names were carved into stone — now the site of a cursed landslide.
+24. Ashdrift Monastery
+> Human ascetic keep, razed during a Blight-inversion of its silent rites.
+25. Cinderfang Shrine
+> A buried demihuman spirit-forge, flooded in magma and memory-ash after a pact broke.
+
+⛏️ Camps and Mines (60)
+
+1. Frostjaw Quarry
+> Human mine extracting screamstone — now operated under silent protocols.
+2. Veilstone Drift
+> Demihuman camp built into fog-crystal veins, warded with dreamcatch sigils.
+3. Gravemark Hollow
+> Former battlefield scavenger camp, now haunted by echo-walkers.
+4. Duskrattle Shale
+> Slaver-run shale pit echoing with ritual pain chants.
+5. Wyrmbrace Tunnel
+> Demihuman coil-miners vanished here; the stone now breathes.
+6. Cinderflint Bastle
+> Human dig post for volcanic flint; plagued by ash-thirst.
+7. Hearthsnare Glint
+> Blight-corrupted gemfield where light burns memory.
+8. Tallowgut Den
+> Demihuman outpost harvesting marrow-fat lichen.
+9. Gravepelt Sump
+> Bone-riddled Blight pit where corpses sink and hum.
+10. Echochurn Scree
+> Crystal-slicing slaver mine using echo-reverberation to fracture walls.
+11. Weepglass Trench
+> Abandoned site where glass layers weep frost-red fluid.
+12. Ashbleed Sink
+> Cave collapse zone tinged with blood-fume and soft moaning stone.
+13. Spindlevein Nest
+> Screech-mineral camp; shards sing when broken.
+14. Thrallbore Sinkline
+> Former froststeel shaft seized by thrall-husk swarm.
+15. Drowsehole Verge
+> Camp where all fell into unnatural sleep — no sign of struggle.
+16. Bleakthorn Bunk
+> Demihuman camp beneath frostrot tree roots, used for sigil carving.
+17. Stitchbone Dig
+> Slaver shaft chiseled into fossil-bed filled with chained skeletons.
+18. Redsmoke Eyrie
+> Cliffside mine for hotdust minerals; now sends scarlet fumes.
+19. Grimlick Pit
+> Demihuman cannibal-burrow repurposed as coldforge supply camp.
+20. Bloodveil Funnel
+> Rift mine where exposed ore pulses when near wounded bodies.
+21. Howleye Crater
+> Echo pit that screams back when shouted into.
+22. Nailcoil Shaft
+> Deep slaver prison shaft, now melted shut.
+23. Fogjaw Hollow
+> Mist-heavy holding site for spirit ore.
+24. Bitterbore Swell
+> Blight-pocked wound mine growing bone-worm cysts.
+25. Rindclaw Tunnel
+> Insect-mining route now used by exile demihumans.
+26. Shardtongue Mire
+> Mineral pool where whisper-crystals form from vocal sacrifice.
+27. Murkhold Trough
+> Slave-choked basin once used to rinse raw echo-ore.
+28. Scathetrail Cut
+> Razor limestone camp used to test new Blight cutters.
+29. Thawcrust Basin
+> Melt-prone dig site maintained by oathbound warhounds.
+30. Snarlbark Rise
+> Timber harvest converted to camp after Blight warped the trees.
+31. Ebonflow Gouge
+> Spiritstone trench guarded by memory-warded totems.
+32. Coilwhisper Claim
+> Echo ore mine, must be worked in silence.
+33. Vinegore Cleft
+> Blightplants used in ritual toxins grow wild here.
+34. Shriekbind Spur
+> Minor peak mine plagued by sentient avalanche sounds.
+35. Gravethrum Forge
+> Sound-locked demihuman forge run by echo-deaf elders.
+36. Blackpore Bend
+> Fungus-harvest site; spores bloom from buried dead.
+37. Ironlick Run
+> Rust-heavy vein where tools melt into blood.
+38. Blistershard Scrape
+> Open-pit where sun reacts to crystal core in painful flares.
+39. Coldvein Socket
+> Thermal vein used in forbidden froststeel smelting.
+40. Tarscree Hole
+> Molten-bitumen dig now overrun with Blight-slicks.
+41. Sootmark Quarry
+> Slaver stone pit — blackened and ringed by burnt prayer bones.
+42. Howlfang Hollow
+> Carved den where boneshapers mine from Blightbeast carcasses.
+43. Echojaw Tines
+> High-altitude claim that warbles at night.
+44. Dustcoil Gap
+> Crater mine slowly spiraling into a buried heartstone.
+45. Crackglare Wall
+> Frozen ridge with flashstone veins; mining causes blindness.
+46. Drudgebleed Camp
+> Slaver-run trench with cursed bloodlines kept beneath.
+47. Rubblegrim Shuck
+> Demihuman quarry built from ruined stonebound citadel.
+48. Glintlash Crease
+> Flash-mineral harvest site used for forging soulglass.
+49. Spitechurn Hollow
+> Pit where rage-forged demihumans mine raw seethe-ore.
+50. Hymnbreak Shaft
+> Failed spirit mine; the shaft now wails lost names.
+51. Charcrust Edge
+> Blightburned edge camp, healed by firebound shamans.
+52. Ghostroot Split
+> Tree-claimed dig whose roots mutter dreams.
+53. Skelforge Dive
+> Bone-tooth furnace shaft used to make soulbound weaponry.
+54. Snowlung Rift
+> Glacial fracture full of coughstone and breathless kin.
+55. Thornvow Notch
+> Ritual-scarred notch used to mark outcast pacts.
+56. Flintcoil Step
+> Active mining stairs where workers vanish in light fractures.
+57. Mirthrot Scrape
+> Demihuman prank-dug hollow that turned real when laughter summoned echoes.
+58. Clatterdeep Chasm
+> Unclaimed chasm where sound of work never matches what’s done.
+59. Vastgrim Funnel
+> Cold-spiraling Blight sink, tethered to a corpse’s memory.
+60. Oathbite Drift
+> Final camp where oathbound miners still work — though all are dead.
+
+🧠 Sentient Regions (2)
+
+Woundgleam – A bleeding sentient glacier that remembers every cut made into its surface.
+
+Hollowdeep – Subterranean memory-warren where the stone itself breathes echoes.
+
+🌿 Natural Locations (20)
+
+1. Frostthorn Grove
+> Bramble-wrapped glade where the snow grows thorns — used for scent-bound meditation.
+2. Mourncreek Veins
+> An icy delta that cries in the thaw — said to carry grief from battles long past.
+3. Whisperfen Hollows
+> Mist-choked marshes where moss murmurs in half-language; avoided by all spirits.
+4. The Cracking Mirrors
+> A frozen lake shattered into reflective shards, each one showing a different memory.
+5. Hearthgrave Pines
+> Trees grown from ash and bone-fertilized soil, rumored to remember campfires.
+6. Silvermire Sprawl
+> Swamp of reflective mud, known to blind blightspawn and mirror echoes.
+7. Ghosthowl Slope
+> Wind-scoured ridgeline where echoes mimic long-dead warhowls.
+8. Glintlace Basin
+> Frost-crystal blooms scatter light like fireflies — used in spirit-mapping.
+9. Ashvow Crag
+> Jagged stone where oathbreakers once leapt — now a place of wind and silence.
+10. Skytine Geysers
+> Highplateau vents that sing when frostwinds pass — considered totems of breath.
+11. Wyrmshade Canopy
+> Dense frostleaf canopy where scaled shadows flicker but never appear.
+12. Stonecradle Ring
+> Ring of ancient boulders used for frost-rites; weathered into clawlike shapes.
+13. Hushbarrow Tundra
+> Open white plain where sound fades to nothing after ten paces.
+14. Snowjaw Gully
+> Permafrost canyon whose winds shape jaws from falling snow — called the devourer’s smile.
+15. Blackglint Ridge
+> Ridge where sun hits obsidian outcrops, burning any who remain too long.
+16. Rimeveil Hollow
+> Subterranean mossbed glowing with frostlight, hidden from all but ancestral wolves.
+17. Gloomwither Field
+> Meadow of blight-warped wildflowers that drain warmth from breath.
+18. Needlebluff Rise
+> Vertical pine cliffs where storm-eagles nest beside bone-totems.
+19. Twilice Steppe
+> Midday never reaches here — sky remains dawnblue, scent remains dream-heavy.
+20. Thornreach Veldt
+> Windswept heath filled with brittle thorn-hearts — said to pulse when kin are near.
+
+---
+
+🛠️ Infrastructure
+
+Auction Houses: Chainfront Ledger Pit, Palebrand Stockade
+
+Fortresses: Frosthold Crossing, Ironmarch Bastion
+
+Bastions: Saltspire Depot, Paleglow Bastion (ruined)
+
+Trade Routes: Tithegate ⇄ Emberrest ⇄ Saltspire ⇄ Ironmarch
+
+Caravan Trails: Emberrest ⇄ Chainfront ⇄ Thornjaw ⇄ Blistergate
+
+---
+
+📜 The Political Atmosphere of Skarnheim — The Spiral in Shadow
+
+> The frost keeps its peace by teeth, not trust.
+The mountains hold their silence by oath, not love.
+The clans breathe the same wind, but never the same breath.
+
+The demihuman clans of Skarnheim share a single spiral of blood and bone, yet the lines between them have hardened into ice.
+Old betrayals — some spoken, many not — have shaped the land into a quiet war.
+The Blight is the enemy all name aloud, but in the dark between ridges, they watch each other more closely than the infection.
+
+Four great currents coil beneath the Spiral:
+
+The Iron Accord — Bear, Wolf, and Tiger blood, bound in the defense of mountain holds and border stone. Their oath is iron; their patience is not.
+
+The Veil Compact — Fox, Raven, and Falcon wings folded in shadow, keeping secrets, shaping whispers, and letting rivals see only what they wish.
+
+The Green Covenant — Rabbit, Lynx, and Eagle talons rooted in forest and field, holding the lifeways of soil, rain, and seed against the creep of stone.
+
+The Broken Spiral — Coyote, Bobcat, and outcast bloodlines who bend the Spiral’s law for coin, for vengeance, or for the stories they want remembered.
+
+No clan admits to bloc allegiance in open speech.
+Every clan knows exactly where their rivals stand.
+And every pact signed in frost is read twice — once for its promise, once for its trap.
+
+> The frost does not melt here.
+The Spiral does not sleep.
+The war is already breathing.
+
+---
+
+🧠 Core Belief — The Spiral Oath of Drogvyn
+
+> “The land does not hear soft words.
+The wind carries no empty names.
+Only blood, vow, and bone bind your scent to the gods.”
+
+In Drogvyn, prayer is a hollow breath without sacrifice.
+A god does not stir for whispers.
+They rise for what you give — and what it costs you to give it.
+
+The Divine Spiral answers those who carve their promises in flesh and deed.
+An offering left without pain is an insult;
+a vow spoken without risk is forgotten before the frost melts.
+Every pact is sealed in the currency of the living:
+blood, breath, labor, or loss.
+
+The Shadow Spiral does not wait to be called.
+Its gods watch for weakness, hunger, and desperation.
+They demand payment before the gift — and take more after.
+Their contracts are written in scars, chains, and graves.
+
+There is no safe devotion.
+To seek a god is to open yourself to its price.
+To give nothing is to be nothing.
+Only sacrifice makes faith real — and the Spiral always remembers the scent of those who pay in full.
+---
+
+🩸 Pantheon — Drogvyn, World of Echo and Bone
+
+> “The gods do not live in stone halls.
+They live in the wind between trees,
+the blood in the snow,
+and the shadow that follows you when no one is there.”
+
+---
+
+🌌 The Divine Spiral — Immortals Beyond Flesh
+
+Each god is unreachable by hand — known only by scent, omen, storm, or inherited rite.
+They do not speak in words, but in signs.
+The wise read them; the foolish ignore them.
+
+---
+
+🌙 Avarael — Moon, Memory, Mercy
+
+Mythic Triad
+Dreams bind mercy to silence.
+The frost remembers every sleeper.
+Death and memory walk as one.
+
+Symbol: Spiral moon wrapped in ivy
+Aspect: Dreams and death sleep entwined
+Totem: White owl
+
+Triad of Binding
+Offering: Three drops of milk under the moon
+Taboo: Killing a sleeping foe
+Sign: A white feather where none should fall
+
+---
+
+🔥 Thonruk — War, Sacrifice, Fire
+
+Mythic Triad
+Burn the weak to shield the strong.
+A feast of blood kept in silence.
+Death carried only for kin.
+
+Symbol: Flaming ribcage
+Aspect: Death for kin is the only clean death
+Totem: Red stag
+
+Triad of Binding
+Offering: Burnt meat shared with no one
+Taboo: Turning away from a kin’s call for aid
+Sign: Smoke rising against the wind
+
+---
+
+❄️ Vesska — Ice, Silence, Judgment
+
+Mythic Triad
+Every betrayal sleeps in her snow.
+The silence of frost outlives all voices.
+Judgment cuts deeper than any blade.
+
+Symbol: Sealed eye carved in frost
+Aspect: Every betrayal sleeps in her snow
+Totem: Snow fox
+
+Triad of Binding
+Offering: Breath held until pain
+Taboo: Speaking before your rival has finished
+Sign: Ice forming on warm stone
+
+---
+
+🌿 Eilun — Healing, Birth, Soil
+
+Mythic Triad
+Knives guard every healer’s hand.
+The soil drinks both blood and seed.
+Birth and burial share the same ground.
+
+Symbol: Stone cradle with rootbound skull
+Aspect: Healers carry knives
+Totem: Doe
+
+Triad of Binding
+Offering: Seed buried in the blood of prey
+Taboo: Letting soil go untended
+Sign: Roots breaking through stone overnight
+
+---
+
+🌬️ Ashamar — Wind, Wildness, Breath of Beasts
+
+Mythic Triad
+Every breath belongs to the wild.
+The wolf’s howl scatters chains like dust.
+The storm serves no master.
+
+Symbol: Feathers tangled in fang
+Aspect: All who breathe serve him
+Totem: Great wolf
+
+Triad of Binding
+Offering: Smoke from burning fur
+Taboo: Binding a wild beast in chains
+Sign: A sudden gust carrying no scent
+
+---
+
+🩸 Mirell — Blood, Lineage, Oath
+
+Mythic Triad
+You are only what you remember.
+Bloodline is oath carved in flesh.
+Forget, and your name dies with you.
+
+Symbol: Three threads through a broken tooth
+Aspect: You are only what you remember
+Totem: Black bear
+
+Triad of Binding
+Offering: Blood drawn from the right palm
+Taboo: Breaking an oath before witnesses
+Sign: A tooth found where no jaw lies
+
+---
+
+⛰️ Orvak — Earth, Burden, Endurance
+
+Mythic Triad
+The mountain never speaks.
+The weight endures beyond all breath.
+To carry is to live.
+
+Symbol: Mountain chained in root
+Aspect: He never speaks — but the world holds
+Totem: Tortoise
+
+Triad of Binding
+Offering: Stone carried for three days
+Taboo: Abandoning a task before completion
+Sign: A stone too heavy lifts easily once
+
+---
+
+🪶 Ysolde — Prophecy, Loss, Knowing
+
+Mythic Triad
+Truth burns even unseen.
+The crow’s cry marks what must be lost.
+Sight costs more than blindness.
+
+Symbol: Bone mask cracked with firelight
+Aspect: Truth burns, even unseen
+Totem: Crow
+
+Triad of Binding
+Offering: Ash scattered in running water
+Taboo: Asking a question unready to hear answered
+Sign: A crow flying against the storm
+
+---
+
+⚡ Hrethuun — Storms, Justice, Ancestral Wrath
+
+Mythic Triad
+The storm speaks for the dead.
+Lightning is judgment made flesh.
+The howl avenges what silence cannot.
+
+Symbol: Split tree struck with iron
+Aspect: When judgment is due, so is the howl
+Totem: Thunderhawk
+
+Triad of Binding
+Offering: Iron heated and quenched in rainwater
+Taboo: Ignoring an insult to your ancestors
+Sign: Thunder with no stormclouds
+
+---
+
+⌛ Zaraquess — Time, Dust, Inevitability
+
+Mythic Triad
+All things return to ash.
+The hourglass devours every name.
+No hand can turn back the spiral.
+
+Symbol: Spiral hourglass devouring ash
+Aspect: All things return
+Totem: Tortoiseshell cat
+
+Triad of Binding
+Offering: Broken clock buried in soil
+Taboo: Trying to stop the aging of the dead
+Sign: Dust falling upward in still air
+
+---
+
+🌑 The Shadow Spiral — The Hidden, The Corrupt, The Devouring
+
+> “The shadow gods do not ask for worship.
+They take it.
+Every bargain with them is a wound carved into the soul.”
+
+---
+
+☣️ Evarael — Blight, Unmaking, Corruption
+
+Mythic Triad
+Rot devours even memory.
+The blight whispers where roots once held.
+To touch is to lose.
+
+Symbol: Spiral cracking inward
+Aspect: Even memory can die
+Totem: Plague crow
+
+Triad of Binding
+Offering: Burn a memory item from your youth
+Taboo: Healing what the Blight has claimed
+Sign: Mold blooming in dry frost
+
+---
+
+🌹 Kaelthera — Lust, Ruin, Rebirth
+
+Mythic Triad
+Pleasure carves deeper than steel.
+Ruin is only the seed of return.
+Every touch bears a cost.
+
+Symbol: Coiled rose-thorn vine
+Aspect: Pleasure is power with memory
+Totem: Serpent
+
+Triad of Binding
+Offering: Rose petals burned in wine
+Taboo: Denying pleasure when freely given
+Sign: A thorn drawing blood without pain
+
+---
+
+🦴 Emvayra — The Forgotten, Rot, Sealed Truths
+
+Mythic Triad
+Secrets sleep best in decay.
+The silence of rot holds longer than stone.
+The dead keep what the living betray.
+
+Symbol: Hollow skull with bleeding moss
+Aspect: Secrets are safest when dead
+Totem: Vulture
+
+Triad of Binding
+Offering: Food left to decay untouched
+Taboo: Revealing the hiding place of the dead
+Sign: A skull unearthed whole from soft ground
+
+---
+
+🎭 Siraan — Trickery, Laughter, Lore
+
+Mythic Triad
+Laughter can kill sharper than blades.
+The mask always smiles wider than the mouth.
+Every lie births its own truth.
+
+Symbol: Two crossed tails over a cracked mask
+Aspect: The laugh that kills
+Totem: Coyote
+
+Triad of Binding
+Offering: A lie told well enough to be believed
+Taboo: Refusing a dare in front of witnesses
+Sign: A mask cracked with no hand upon it
+
+---
+
+🗡️ Vel’Thir — Pain, Clarity, Threshold
+
+Mythic Triad
+Pain teaches what silence hides.
+Every scar is a doorway.
+Only the cut proves the flesh is real.
+
+Symbol: Thorn-stitched hide
+Aspect: Pain teaches what speech cannot
+Totem: Ram
+
+Triad of Binding
+Offering: Blood willingly taken by thorn
+Taboo: Avoiding a trial by ordeal
+Sign: A wound that heals too quickly
+
+---
+
+😶 Zethrayn — Fear, Silence, Nightmare
+
+Mythic Triad
+Fear walks where fire cannot reach.
+The dream-hunter speaks without a mouth.
+Night is the oldest predator.
+
+Symbol: A wolf with no mouth
+Aspect: It hunts inside dreams
+Totem: Shadow wolf
+
+Triad of Binding
+Offering: A night slept under open sky without fire
+Taboo: Speaking your fear aloud at night
+Sign: Eyes watching where no beast stands
+
+---
+
+⛓️ Cyrhess — Binding, Justice, Exile
+
+Mythic Triad
+Chains shape more than freedom ever could.
+The bound either break or become.
+Exile is only another kind of binding.
+
+Symbol: Chain curling into sigil
+Aspect: The bound either break or become
+Totem: Iron serpent
+
+Triad of Binding
+Offering: Lock sealed without key
+Taboo: Freeing the bound without cause
+Sign: A chain found twisted into a circle
+
+---
+
+🦁 Ravahra — Devotion, Wrath, Purity
+
+Mythic Triad
+Purity burns hotter than mercy.
+Wrath cleanses what weakness forgets.
+Devotion sharpens the fang.
+
+Symbol: Ash-winged lion
+Aspect: Holy fire weeps for no one
+Totem: Lion
+
+Triad of Binding
+Offering: Ash spread on the chest
+Taboo: Showing mercy to the unrepentant
+Sign: Pawprints smoking in snow
+
+---
+
+🐂 Goremakh — Bloodsport, Might, Strength
+
+Mythic Triad
+Strength is proved in blood alone.
+The sport of death is the truest oath.
+The broken always kneel.
+
+Symbol: Iron horn torn from beast
+Aspect: Kill or kneel
+Totem: Bull
+
+Triad of Binding
+Offering: Fight until blood is drawn
+Taboo: Refusing a direct challenge
+Sign: Horns buried in earth where no beast passed
+
+---
+
+💰 Vharrek — Greed, Hoarding, Starvation
+
+Mythic Triad
+Hunger grows when gold is kept.
+The hoard devours its master first.
+Empty hands carve the deepest wounds.
+
+Symbol: Clenched fist over empty bowl
+Aspect: Hunger grows when gold is kept
+Totem: Rat
+
+Triad of Binding
+Offering: Keep food from the hungry for three days
+Taboo: Sharing freely without gain
+Sign: Grain spoiling inside a sealed jar
+
+---
+
+🛐 The Spirit Law of Drogvyn — Faith Without Walls
+
+> “The frost remembers the oath.
+The stone remembers the hand.
+The blood remembers both.”
+
+In Drogvyn, faith is not spoken into the air — it is carved into the world.
+There are no cathedrals, no bound books, no priesthood raised above the hunt.
+The land itself is scripture; the gods write in storm and bone.
+Clan shamans, spirit-binders, and omen-readers do not preach — they interpret the signs the land has already given.
+
+The gods do not demand kneeling before graven idols.
+They demand the touch of hand to snow where their shadow has fallen, the ash of a burnt offering laid where the wind carries it, the blood of the vower spilled upon stone.
+
+---
+
+🌌 The Divine Spiral
+
+The Pantheon is a single coil — every god a turn of it.
+To ignore one is to risk unbalancing the whole.
+Each clan stands closest to the god whose breath matches their blood, but all understand the Spiral’s law:
+if you sever one thread, the rope frays for all.
+
+Offerings are always given in triads —
+three drops of blood,
+three breaths of smoke,
+three stones stacked under moon or sun.
+To break the triad is to invite divine silence — or worse, divine notice without favor.
+
+---
+
+🌑 The Shadow Spiral — The Gods in the Dark
+
+Beneath the open coil of the Divine Spiral lies a second path — one walked in whisper and blood.
+The Shadow Spiral is not spoken of in clan square or council.
+It coils around gods whose names are invoked by slavers, oathbreakers, blight-bearers, and those who sell the breath of kin for gold.
+These gods grant power as readily as the rest — but their price is ruin measured in years, not days.
+
+Those who call upon the Shadow Spiral do so knowing three things:
+
+The favor they take will be paid for in kin-blood.
+
+The mark of their god will follow them into the afterbreath.
+
+No offering to the light will wash away the dark.
+
+To walk the Shadow Spiral is to stand outside clan law, and yet many whisper that whole bloodlines have survived only by walking its hidden path.
+
+---
+
+🌿 The Keepers of Breath — Religious Roles
+
+Spiritcallers — Bridge the breath of living and dead, drawing ancestor-voices through dream, smoke, and bone-flute.
+Totembinders — Carve and awaken sacred forms, binding a god’s will to wood, bone, or stone so it may walk with the clan.
+Stormseers — Read wind, sky, and bird-flight for omens of war, death, and turning season.
+Bloodwrights — Conduct oath-blood rites, sealing kinship, vengeance, or devotion beneath the gaze of the invoked god.
+
+---
+
+⚖ The Law of Sacrifice
+
+Words alone are dust.
+Prayer without offering is a hollow breath — an insult.
+The gods do not stir for supplicants; they stir for the price paid.
+A vow without blood, a plea without pain, an oath without labor — these are spat into the frost and lost.
+
+---
+
+⚖ The Law of Silence
+
+A god’s true name is not spoken without cause.
+To speak it idly is to draw their gaze — and their judgment.
+The wise invoke through scent-offerings, totem marks, or the god’s animal form.
+True names are for blood-oaths, death rites, and war-calls only.
+
+---
+
+🪵 Totemic Binding
+
+Every god claims a primary totem — carved in materials they favor — and a wild form they walk in.
+A clan’s totem may bear the marks of multiple gods, but each mark must be carved on its own line.
+To mix two in one stroke is to make a lie in wood — and invite both to punish the falsehood.
+
+---
+
+📂 Demihuman Clans — Skarnheim, Northeastern Region
+
+---
+
+🔄 The Spiral of Clans
+
+> Each curve is a life.
+Each meeting a bond.
+Break the spiral and the pulse dies.
+
+The Spiral is carved into cave walls and bloodstones, its lines curling like windtracks over snow.
+Each curve is a clan, none complete alone.
+Some bend toward each other in trust, some strain apart in silence, and some have already begun to fray.
+
+The Spiral is not politics — it is breath.
+But breath can freeze.
+And when it does, even kin will bare teeth.
+
+---
+
+🛡 The Iron Accord — Wall of Stone and Silence
+
+> Not all walls are built to keep the enemy out,
+Some are built to keep the truth in,
+And some are built to remember what was lost.
+
+The Iron Accord is the shield of the Northeastern lands — a pact of clans who have sworn to hold the passes, guard the valleys, and keep the ancient roads open against siege, Blight, and human encroachment.
+Their alliance is as old as the first frost-stones carved into the Spine, sealed in blood when the mountains were thought unbreakable.
+
+In public, they stand as the stalwart counterweight to the Veil Compact’s shadowwork — the visible hand where the Compact is unseen.
+In private, they accuse the Veil of playing too close to treachery… while quietly relying on the very intelligence they condemn.
+
+And though their unity is carved deep, whispers coil in the cracks:
+One Accord clan accused of trading with human warbands for steel and salt.
+Another rumored to have let Blight creep near their borders, watching to see how it might be turned to war.
+
+---
+
+🐺 The Chipped Fang — Wolf Clan
+
+> They scent the storm before the wind.
+They hunt until the heart stops.
+They die as one or not at all.
+
+Born for the flank and the long kill, the Chipped Fang move with the rhythm of breath and snow.
+They patrol the Spine’s shadowed slopes, frost-scorched totems marking every kill as a warning to intruders.
+Loyalty is their shield; betrayal is answered in blood and exile.
+They are the Accord’s vanguard — its sharpest teeth, its first strike.
+
+Home — Spine’s western passes, north of Frostbrace Hold
+Role — Vanguards, survivalists, flank-hunters
+Traits — Loyalty-bound, dominance-aware, scent-disciplined
+Specialties — Trail warfare, endurance hunts, flank coordination
+Cultural Note — Leadership changes only by ritual combat in the snow. The pack is breath — break it, and you choke.
+Relations — Ally-blood with the Stonebound Maw; bitter oath-feud with the Shrouded Mist.
+Rumor — Some Veil whisper that Chipped Fang patrols have let human raiders pass unchallenged if their prey was Compact-linked.
+Primary Patron: Ashamar (wild wind, beast-breath)
+Secondary Patrons: Mirell (oath, bloodline), Hrethuun (storm-wrath, ancestral judgment)
+Taboo Patron: Kaelthera (lust, ruin, rebirth)
+
+Patron Carving:
+The Fang breathe Ashamar’s gale, seal oaths in Mirell’s blood-thread, and sharpen fangs in Hrethuun’s thunder. Yet they spit at Kaelthera’s thorned rose, for pleasure without oath is poison, and no wolf follows ruin’s scent.
+
+---
+
+🐻 The Stonebound Maw — Bear Clan
+
+> They are the last wall when all else falls.
+They speak the tongue of earth.
+They sleep with the roots of mountains.
+
+Ancient and immovable, the Stonebound Maw guard the lorevaults and mountain gates.
+They are the Accord’s foundation — holding fast when others bend.
+The Maw do not rush to war; they crush it in their own time, with the inevitability of a glacier grinding stone.
+
+Home — Mountain bastions east of Vowshade Reach
+Role — Earth-binders, lorevault guardians, frontline ancients
+Traits — Stoic, strong, trance-capable
+Specialties — Rootsleep defense, stonecraft, blood-rune combat
+Cultural Note — They speak to stone before man. In Accord councils, the Maw’s voice is the last heard — and the one that ends debate.
+Relations — Ally-blood with the Chipped Fang; stone-oath with the Duskhollow Watch.
+Rumor — The Veil claims the Maw have allowed Blight to touch hidden valleys, studying its spread for reasons they do not share.
+Primary Patron: Orvak (earth, endurance)
+Secondary Patrons: Mirell (lineage, oath), Vaessra (guardianship, kin-protection)
+Taboo Patron: Evarael (Blight, corruption)
+
+Patron Carving:
+The Maw kneel to Orvak’s mountain, bear Mirell’s threads unbroken, and scar themselves for Vaessra’s shield. Yet they grind their teeth at Evarael’s rot, for the Maw guard valleys, not graves.
+
+---
+
+🦅 Sunfeather Aerie — Eagle Clan
+
+[Status: Dual Allegiance — Covenant by blood, Accord by pact. This is intentional political intrigue.]
+
+The Aerie nests in cliff-forts where sky and stone meet...
+
+> They do not fall without purpose.
+They kill from where no arrow can reach.
+They guard the high sun as their own.
+
+Fierce and unbending, the Sunfeather Aerie are duelists of the upper air, holding the high ridges and cliffforts where only the wind dares walk.
+Their honor code is carved into bone — a Sunfeather will not strike without cause, but when cause is found, they descend like a falling sun.
+
+Home — Crag-spires above Greenstep Valley, with a fortified seasonal aerie above Mirrorbrand Outpost for southern patrols
+Role — Sentinel-duelists, highland wardens
+Traits — Fierce, honor-driven, unbending
+Specialties — Dive-bomb strikes, sky-overwatch, wind combat
+Cultural Note — All hatchlings are blindfolded at birth; true sight is earned when they take their first death-drop flight alone.
+Relations — Sky-pact with the Frostclaw; wary cooperation with the Veil’s Windpierce Flight.
+Rumor — Some Compact whispers claim Sunfeather scouts have shadowed their flights for weeks at a time, mapping every covert landing.
+Primary Patron: Ysolde (prophecy, truth-burning)
+Secondary Patrons: Hrethuun (storm-wrath, judgment), Solgaruun (sun, harvest, reaping)
+Taboo Patron: Zethrayn (fear, nightmare, silence)
+
+Patron Carving:
+The Sunfeather lift Ysolde’s broken mask to the sky, ride Hrethuun’s storms as omens, and reap Solgaruun’s gold for kin. Yet they shun Zethrayn’s shadow, for no hawk hunts blind in fear.
+
+---
+
+🐆 The Duskhollow Watch — Mountain Lion Clan
+
+> They keep the passes no one else dares.
+They do not forget a trespass.
+They do not forgive a return.
+
+Silent and unyielding, the Duskhollow Watch hold the sacred passes against all who would defile them.
+They are the Accord’s shadowed sentinels — unseen until you have crossed a line you did not know was there.
+
+Home — Steep cliff passes south of Mirrorbrand Outpost
+Role — Ridge sentinels, sacred pass guardians
+Traits — Quiet, firm, territory-bound
+Specialties — Steep terrain combat, mountain lairs, last-stand defense
+Cultural Note — Trespass in Duskhollow territory is met without parley. They hold ground until death — and beyond.
+Relations — Stone-oath with the Stonebound Maw; cold neutrality with the Veil Compact.
+Rumor — Certain Compact scouts claim Duskhollow patrols have captured Veil messengers and sent them home carrying false intelligence.
+Primary Patron: Avarael (moon, memory, mercy)
+Secondary Patrons: Ysolde (prophecy, knowing), Thal’ruun (ancestor-echoes)
+Taboo Patron: Thryssan (false justice, corruption)
+
+Patron Carving:
+The Hollow whisper Avarael’s moon into the frost, keep Ysolde’s firelit truth, and rouse Thal’ruun’s bone-echoes. Yet they spit at Thryssan’s scales, for no wisdom bends to coin.
+
+---
+
+🐯 The Frostclaw — Snow Tiger Clan
+
+> They fall like stone from the clouds.
+They kill before the echo fades.
+They leave only the scent of blood and ash.
+
+Once believed to have been wiped out in the Blight War, the Frostclaw have clawed their way back from near extinction. Scattered survivors and hidden bloodlines have reformed in recent winters into the Accord’s shock-strike predators — descending from cliffs in a blur of fur and steel.
+
+Home — Cliff ranges north of Sorrowrun Keep
+Role — Cliff-bound pouncers, shock-strike vanguard
+Traits — Graceful, forceful, elevation-adapted
+Specialties — Ambush-leaping, fog warfare, pulse-reading prey
+Cultural Note — Ash is streaked in their fur before war; they strike without warning or mercy.
+Relations — Sky-pact with the Sunfeather Aerie; cautious alliance with the Chipped Fang. The Sky-pact is upheld through shared patrols over the central Spine, meeting at the Windknife Cliffs where both clans’ hunting ranges overlap.
+Rumor — Some say the Frostclaw once sold their claws to human mercenaries — not for coin, but for southern hunting rights.
+Primary Patron: Kaervael (snow, stillness)
+Secondary Patrons: Hrethuun (storm-wrath), Vesska (ice, judgment)
+Taboo Patron: Vel’Thir (pain, ordeal, threshold)
+
+Patron Carving:
+The Frostclaw crouch in Kaervael’s stillness, strike in Hrethuun’s thunder, and carve Vesska’s judgments in snow. Yet they deny Vel’Thir’s thorns, for the Frostclaw kill clean, not slow.
+
+---
+
+⚖ The Weight of the Wall
+
+> A wall does not ask who it shelters.
+A wall does not choose who it keeps out.
+A wall endures until it falls.
+
+The Iron Accord stands as the most visible shield in the Northeast — its banners, its walls, and its warriors symbols of safety.
+Yet even stone has fault lines.
+They mistrust the Veil’s whispers yet rely on their intelligence.
+They condemn trade with humans yet bargain with them in shadows.
+In Skarnheim’s cold war, the Accord may stand taller than all others — but the higher the wall, the deeper the shadow it casts.
+
+---
+
+🕯 The Veil Compact — The Hand in Shadow
+
+> Not all battles are fought in the open,
+Not all blades are drawn from scabbards,
+And not all wars end when the killing stops.
+
+The Veil Compact is not a shield, but a shadow — a coalition of clans who work unseen, manipulating the field before the battle is ever joined.
+They hold no wall, but they decide where the enemy will strike.
+They speak no law, but they decide who will live long enough to hear it.
+
+To the Iron Accord, they are untrustworthy meddlers.
+To the Green Covenant, they are necessary evil.
+To the Broken Spiral, they are competition — and occasional patrons.
+
+In truth, the Veil lives in the gray between oaths, bending rules to keep the Spiral unbroken. They thrive on information, rumor, and invisible pressure. And while they have saved the Northeast more times than the Accord will admit, no one forgets that the Veil’s dagger can turn inward as easily as out.
+
+Persistent Rumors —
+Whispers claim that coded messages have been intercepted bearing marks not of the Compact, but of something older, darker, and nearer the Blight.
+Certain Compact scouts have been seen meeting with “festival troupes” who vanish without trace after their performances.
+And once in a while, a clan finds that the Veil’s perfect intelligence led them straight into a place the frost itself refuses to reclaim.
+
+---
+
+🦊 The Shrouded Mist — Fox Clan
+
+> They vanish between heartbeats.
+They speak in shadows.
+They return only when the game is theirs.
+
+Masters of deception, the Shrouded Mist weave false trails and false truths with equal skill.
+They can ruin an enemy warband without drawing a blade, or ignite a feud between clans with a single whisper in the right ear.
+The Mist claim to serve the Spiral, but they serve it on their own terms — and their terms are often unreadable until it’s too late.
+
+Home — Frost-hollowed valleys east of Vowshade Reach
+Role — Illusionists, political disruptors, covert saboteurs
+Traits — Subtle, perceptive, emotionally masked
+Specialties — Veil magic, scent-masking, dream infiltration
+Cultural Note — Foxes court under the moon with ash-marked fur; to refuse a mark is to declare an enemy.
+Relations — Tied in shadow-oath to the Shadowed Wing; sworn enemies of the Chipped Fang since the Betrayal of the Veil.
+Rumor — Accord whispers claim the Mist have traded in human slaves — not for profit, but for the leverage their chains can buy.
+Primary Patron: Vesska (ice, silence, judgment)
+Secondary Patrons: Drenasha (night, devotion, hidden strength), Mirell (blood, lineage, oath)
+Taboo Patron: Siraan (trickery, false laughter, poison-lore)
+
+Patron Carving:
+The Mist vanish in Vesska’s frost-silence, cloak themselves in Drenasha’s unseen loyalty, and seal their oaths in Mirell’s blood-thread. Their strength is in whispers carried by snow. Yet they refuse Siraan’s mask, for a lie spoken for mirth is weakness — and the Mist’s deceptions are always knives.
+
+---
+
+🦅 The Shadowed Wing — Raven Clan
+
+> They see what storms hide.
+They speak to the dead without fear.
+They never bring the living comfort.
+
+The Shadowed Wing walk the border between the living and the dead, gathering truths no one wants spoken aloud.
+They hold the Compact’s deepest archives — secrets bound in feather, bone, and breath.
+When the Wing arrives in your territory, you know the Compact has already decided your fate.
+
+Home — Blackpine ridges north of Bleaktithe Vault
+Role — Spirit-guides, death-keepers, intelligence archivists
+Traits — Wry, watchful, shadow-bound
+Specialties — Sky pathfinding, spirit-channeling, chaos divination
+Cultural Note — Speak in riddles to the dying; to answer plainly is to invite bad death.
+Relations — Shadow-oath with the Shrouded Mist; wary exchanges with the Sunfeather Aerie.
+Rumor — It is said the Wing have called storms to sink human supply ships — and then sold the cargo to the very clans they warned away.
+Primary Patron: Drenasha (night, devotion, hidden strength)
+Secondary Patrons: Vesska (ice, silence, judgment), Thonruk (war, sacrifice, fire)
+Taboo Patron: Thryssan (false justice, corruption)
+
+Patron Carving:
+The Wing roost in Drenasha’s black sky, read Vesska’s frozen seals, and strike only when Thonruk’s war-bell tolls. They archive storms, weigh deaths, and carry secrets like feathers. Yet they will not touch Thryssan’s coin-tipped scales — for justice bound to silver is no justice at all.
+
+---
+
+🦅 The Windpierce Flight — Falcon Clan
+
+> They ride the storm’s edge.
+They do not waste a word or a wingbeat.
+They strike at the moment the wind turns.
+
+The Windpierce are the Compact’s couriers of war — but they carry more than messages.
+Every delivery is a chance to plant a seed: a half-truth, a coded warning, a rumor timed to bloom at the worst possible moment for the enemy.
+They are as much strategists as messengers, reading the flow of battle from the wind itself.
+
+Home — Cliff-spires along the eastern coast near Mirrorbrand Outpost
+Role — Tactical messengers, high-speed infiltrators
+Traits — Swift, obsessive, tactical
+Specialties — Dive-ambush, storm navigation, lightning relay tactics
+Cultural Note — Feathers are tied with silver thistle and blood-silk threads upon reaching battle speed; losing a tie in flight is considered a grave omen.
+Relations — Cooperative rivalry with the Sunfeather Aerie; secret storm-pact with the Frostclaw.
+Rumor — Accord loyalists claim the Windpierce have delivered false orders to entire warbands, sending them to die in ambushes meant for someone else.
+Primary Patron: Ashamar (wind, wildness, breath of beasts)
+Secondary Patrons: Hrethuun (storm, ancestral wrath), Drenasha (night, devotion, hidden strength)
+Taboo Patron: Vaeril (flame, purity, hunger)
+
+Patron Carving:
+The Flight rides Ashamar’s gale, cuts through Hrethuun’s storm-light, and carries Drenasha’s whispers across the dark. Their wings are messengers, their dives decisions. Yet they spurn Vaeril’s flame, for fire burns away shadow — and the Flight’s work lives in its shelter.
+
+---
+
+⚖ The Price of the Shadow
+
+> A shadow can hide you.
+A shadow can hide from you.
+A shadow can hide nothing forever.
+
+The Veil Compact wins battles no one ever sees, but its victories come with debts — and its debts are always collected.
+They speak of unity, but unity on their terms.
+They fight the Blight, but they decide which battlefields will burn.
+In Skarnheim’s cold war, the Veil is the whisper that shapes the shout — and the silence that follows it.
+
+---
+
+🌲 The Green Covenant — Roots Beneath Stone
+
+> The frost breaks stone,
+The stone breaks root,
+Yet the root waits longer than them both.
+
+The Green Covenant is the pulse of Skarnheim’s soil — a bloc of clans bound to the lifeways of forest, field, and rain.
+They are not wall-builders or shadow-weavers; they are the ones who keep the land alive so that any war can be fought at all.
+Without them, the Accord’s walls would starve and the Veil’s messengers would freeze on barren trails.
+
+Their alliances are patient and deliberate.
+Their grudges are older than the oldest fortress stones.
+And while they rarely strike first, when they do, it is with the inevitability of roots breaking rock.
+
+The Covenant speaks often of balance — but in truth, their balance is maintained with a blade hidden in the furrow.
+
+Persistent Rumors —
+Now and then, a healer’s poultice works too well — mending wounds that should have left scars, or leaving a scent the Blight follows for weeks.
+Some border crops are said to have grown without planting, bearing black-veined leaves that vanish before elders can examine them.
+And in one winter, a Covenant grain caravan disappeared for a month, only to return with twice its load and no record of where the extra had come from.
+
+Note: The Sunfeather Aerie are Covenant kin but appear also in the Iron Accord listing due to divided loyalties. Their dual placement is deliberate.
+
+---
+
+🐰 The Shaded Hollow — Rabbit Warren
+
+> They know the song of the soil.
+They bind wounds with roots and rain.
+They vanish into earth when death walks near.
+
+The Shaded Hollow are healers, herbalists, and scouts — the lifeblood of the Covenant’s survival.
+They map the underground as others map the sky, moving entire warrens unseen beneath the frost.
+No army marches far without their foraged stores, and no wounded warrior lives long without their poultices.
+
+Home — Labyrinthine groves and burrow-holds west of Frostbrace Hold
+Role — Herbalists, scouts, spiritual guides
+Traits — Empathic, soil-bound, nervous yet knowing
+Specialties — Herbal alchemy, soil reading, wound-sense
+Cultural Note — Every healer is a sworn witness to both birth and death; to refuse either is exile.
+Relations — Life-oath with the Winter’s Paw; deep trade pact with the Ashgaze Kin.
+Rumor — Veil spies whisper that certain Hollow warrens have grown crops for human garrisons — not for coin, but for promises yet to be called in.
+Primary Patron: Eilun (healing, birth, soil)
+Secondary Patrons: Mirell (blood, lineage, oath), Ashamar (wind, wildness, breath of beasts)
+Taboo Patron: Vaeril (flame, purity, hunger)
+
+Patron Carving:
+The Hollow breathe in Eilun’s soil-song, bind wounds beneath Mirell’s lineage-mark, and vanish along Ashamar’s beast-wind. Their rites are slow as root-growth, their pacts as deep as earthwater. Every birth and death they witness is a prayer turned into seed.
+
+---
+
+🐱 The Winter’s Paw — Lynx Clan
+
+> They watch where others cannot see.
+They move where snow will not tell.
+They strike when silence grows too heavy.
+
+Silent watchers of the high ridges, the Winter’s Paw guard the Covenant’s borders from above.
+They are patient hunters, more often letting enemies pass unchallenged than revealing their presence — until the strike will change everything.
+
+Home — High-ridge forests north of Daggerrest
+Role — Horizon watchers, ridge hunters
+Traits — Solitary, honed, stress-reactive
+Specialties — Snow-camouflage, distant tracking, avalanche survival
+Cultural Note — Lynx seers are said to watch not just the horizon, but the years ahead.
+Relations — Life-oath with the Shaded Hollow; neutral trade with the Stonebound Maw.
+Rumor — Accord scouts claim the Winter’s Paw have allowed Blight incursions to pass unhindered — tracking them deeper into Accord lands to “study their spread.”
+Primary Patron: Ashamar (wind, wildness, breath of beasts)
+Secondary Patrons: Vesska (ice, silence, judgment), Eilun (healing, birth, soil)
+Taboo Patron: Vel’Thir (pain, ordeal, threshold)
+
+Patron Carving:
+The Paw move under Ashamar’s breath, stalk in Vesska’s frost-judgment, and anchor themselves in Eilun’s stillness. Their kills are offered in silence; their watch is a winter-long vigil no fire dares break.
+
+---
+
+🦅 The Sunfeather Aerie — Eagle Clan
+
+> They do not fall without purpose.
+They kill from where no arrow can reach.
+They guard the high sun as their own.
+
+The Sunfeather are the Covenant’s high wardens — sentinels who watch the skies and strike from impossible angles.
+Their duels are legend, and their high crags mark the Covenant’s aerial borders.
+
+Home — Though they swear to the Covenant, their seasonal aerie above Mirrorbrand Outpost places them uncomfortably close to Iron Accord lands — a fact both blocs quietly exploit.
+Role — Sentinel-duelists, highland wardens
+Traits — Fierce, honor-driven, unbending
+Specialties — Dive-bomb strikes, sky-overwatch, wind combat
+Cultural Note — All hatchlings are blindfolded at birth; they earn true sight by surviving the death-drop alone.
+Relations — Sky-pact with the Frostclaw; tense rivalry with the Windpierce Flight.
+Rumor — Veil agents claim certain Sunfeather duels have been fought not for honor — but for the right to control critical mountain passes to the Accord’s heartland.
+Primary Patron: Ysolde (prophecy, truth-burning)
+Secondary Patrons: Hrethuun (storm-wrath, judgment), Solgaruun (sun, harvest, reaping)
+Taboo Patron: Zethrayn (fear, nightmare, silence)
+
+Patron Carving:
+The Sunfeather lift Ysolde’s broken mask to the sky, ride Hrethuun’s storms as omens, and reap Solgaruun’s gold for kin. Yet they shun Zethrayn’s shadow, for no hawk hunts blind in fear.
+
+---
+
+⚖ The Roots Beneath the Frost
+
+> A wall falls when its stones crack.
+A shadow fades when the light shifts.
+But the root — the root waits.
+
+The Green Covenant claims neutrality in the Cold War of Skarnheim — yet their patience hides a blade.
+They feed every bloc, yet could starve any of them with a single season’s refusal.
+They speak for balance, yet keep ledgers of every debt in soil and seed.
+And when the frost bites deepest, it is the Covenant’s stores — or their silence — that decides who survives the winter.
+
+---
+
+🩸 The Broken Spiral — Shadow and Betrayal
+
+> Some curves in the Spiral do not lead home.
+Some turn inward until they devour themselves.
+Some lead straight into the Blight.
+
+The Broken Spiral is not an alliance so much as a pact of convenience between predators, profiteers, and oath-broken bloodlines.
+Its members do not stand together in open war — they trade in debts, poison, and shadows.
+Each clan has been cut from the greater Spiral for crimes unrepented, but exile has not made them weak.
+If anything, it has stripped away every restraint.
+
+They are the blade in the dark while the Veil Compact is still sharpening theirs.
+The Iron Accord calls them rabid.
+The Green Covenant calls them rootless.
+But every bloc has dealt with them when the price was right.
+
+---
+
+🐺🦊 The Hollowfang Pact — Coyote Clan
+
+> They carry every story worth telling.
+They fight with laughter.
+They mourn only in silence.
+
+Mimics and lorebearers, the Hollowfang Pact turn truth into a weapon sharper than any fang.
+They barter in stories — some true, most poisoned — and their tongues can topple as many walls as any siege engine.
+To hire a Hollowfang is to invite chaos and hope your enemies choke first.
+
+Home — Nomadic through borderlands and human frontiers.
+Role — Storycarriers, cross-clan jesters, tactical mimics
+Traits — Humorous, unpredictable, lore-guarded
+Specialties — Story warfare, mimic strategy, spiritual pranks
+Cultural Note — They collect the last words of dying enemies and weave them into victory songs.
+Relations — Trade whispers with the Veil Compact; occasionally ally with the Bobcats for assassinations.
+Rumor — Once sold a false prophecy to the Chipped Fang that led to an entire winter campaign collapsing into an ambush.
+Primary Patron: Kaelthera (lust, ruin, rebirth)
+Secondary Patrons: Mirell (blood, lineage, oath), Ashamar (wind, wildness, breath of beasts)
+Taboo Patron: Vesska (ice, silence, judgment)
+
+Patron Carving:
+The Hollowfang twist Kaelthera’s ruin into laughter, bind Mirell’s threads into poisoned songs, and scatter Ashamar’s breath like wildfire tales. But they deny Vesska’s frost, for silence kills their chaos — and no jest survives the snow’s judgment.
+Entanglements — Known to feed crafted “intelligence” to the Shrouded Mist in exchange for protection during their own operations. Rumored to maintain a standing “festival troupe” contract with the Sunfeather Aerie, using performances to scout highland defenses.
+
+---
+
+🦝 The Ashgaze Kin — Raccoon Clan
+
+> They make tools from ruin.
+They find paths where none exist.
+They learn the secrets of what is left behind.
+
+The Ashgaze are scavengers, thieves, and inventors — dangerous because they can turn any ruin into a weapon.
+They trade in relics too cursed for other clans to touch, and it is said they can smuggle a blade through any blockade.
+
+Home — Hollowed ruins east of Bleaktithe Vault
+Role — Relic scavengers, trapbreakers, urban infiltrators
+Traits — Cunning, tool-wielding, hyper-curious
+Specialties — Artifact retrieval, improvisation, night-entry
+Cultural Note — Innovation is a blood-oath; failure is paid for in exile.
+Relations — Trade with the Shaded Hollow; black-market exchanges with human warbands. Their trade with the Shaded Hollow is maintained via a Veil-protected courier trail cutting through unmapped highland passes, avoiding Accord toll-gates.
+Rumor — Veil whispers claim Ashgaze artisans have reforged Blight-tainted weapons for sale to the highest bidder.
+Primary Patron: Vesska (ice, silence, judgment)
+Secondary Patrons: Mirell (blood, lineage, oath), Kaelthera (lust, ruin, rebirth)
+Taboo Patron: Eilun (healing, birth, soil)
+
+Patron Carving:
+The Ashgaze scavenge beneath Vesska’s sealed eye, stitch Mirell’s threads through stolen steel, and etch Kaelthera’s ruin into relics reborn. Yet they spurn Eilun’s cradle, for healers mend what they profit from breaking.
+Entanglements — Regularly sell “cleaned” artifacts to the Stonebound Maw under false provenances. Maintain covert salvage rights in Green Covenant lands via unmarked Shaded Hollow intermediaries.
+
+---
+
+🐆 The Emberback — Bobcat Clan
+
+> They kill in one breath.
+They follow without shadow.
+They leave only patience behind.
+
+Lethal, territorial, and as patient as frostbite, the Emberback are the Broken Spiral’s executioners.
+They do not waste their claws on warning kills — when they strike, it is because someone has already been paid for the body.
+
+Home — Remote crags and forested ridges near human warpaths.
+Role — Lone assassins, trackless scouts
+Traits — Reflexive, territorial, brutal
+Specialties — Single-strike kills, soft-step tracking, fast escape
+Cultural Note — They carve blood-sigils into their kills; no two are ever the same.
+Relations — Deadly rivals to the Frostclaw; quiet working relationship with the Black Maw Syndicate.
+Rumor — Known to take coin from human slavers if the target is a rival clan’s scout or diplomat.
+Primary Patron: Thonruk (war, sacrifice, fire)
+Secondary Patrons: Vesska (ice, silence, judgment), Ashamar (wind, wildness, breath of beasts)
+Taboo Patron: Avarael (moon, memory, mercy)
+
+Patron Carving:
+The Emberback strike in Thonruk’s flame, mark their kills with Vesska’s frost, and vanish on Ashamar’s storm-breath. But they reject Avarael’s mercy, for memory is weakness and forgiveness leaves a target standing.
+Entanglements — Contracted for “deniable” eliminations by certain Veil Compact agents, especially the Windpierce Flight. Rumored to have trained select Iron Accord warriors in cliff-kill tactics under assumed identities.
+
+---
+
+🐺🩸 The Black Maw Syndicate — Outcast Conglomerate Clan
+
+> They trade in blood, breath, and chains.
+They break the Spiral for coin.
+They bow only to the weight of gold.
+
+The Black Maw Syndicate is not a clan in the old sense — it is a mercantile predator, built from outcast demihumans and hard-eyed humans who chose profit over kin.
+They run smuggling trails, flesh markets, and warband contracts across the Northeast, selling to anyone with the silver to pay.
+In battle, they fight like a pack that owes each other nothing — because they don’t.
+
+Home — Hidden market strongholds along the Spine’s shadowed passes.
+Role — Smugglers, slaver-lords, contract raiders
+Traits — Ruthless, pragmatic, loyalty-for-sale
+Specialties — Smuggling, siege provisioning, high-value captures
+Cultural Note — There is no shared blood here — only shared profit. A Maw’s kin is whoever keeps the coin flowing.
+Relations — Secret supply pacts with certain Iron Accord warbands; open trade with human slaver guilds.
+Rumor — Alleged to have delivered a Veil Compact envoy directly into Blightborn territory — alive.
+Primary Patron: Mirell (blood, lineage, oath)
+Secondary Patrons: Kaelthera (lust, ruin, rebirth), Thonruk (war, sacrifice, fire)
+Taboo Patron: Eilun (healing, birth, soil)
+
+Patron Carving:
+The Maw bind Mirell’s blood into chains, twist Kaelthera’s ruin into coin, and spill Thonruk’s fire on command. But they deny Eilun’s soil, for life and birth yield no profit, and the Maw kneels only to silver.
+Entanglements — Supply illicit siege rations to Frostclaw and Chipped Fang warbands via neutral traders. Allegedly launder coin through Covenant grain markets under false clan names.
+
+---
+
+🩸 The Blightborn Choir — Corrupted Outcast Clan
+
+> They speak with the voice of the Rot.
+They pray in the dark where the frost does not reach.
+They dream of the day the Blight sings loud enough to drown the world.
+
+The Blightborn Choir are the Spiral’s great heresy — demihumans and humans infected, but not yet claimed, who worship the Blight as a divine force.
+They spread infection deliberately, offering “the gift” to enemies and converts alike.
+They see themselves not as traitors, but as heralds.
+
+Home — Ruined frost-temples and Blight-scarred valleys.
+Role — Cult infiltrators, infection spreaders, heretical seers
+Traits — Fanatic, patient, other-voiced
+Specialties — Covert infection, ritual corruption, Blight omen-reading
+Cultural Note — They keep their names from before infection, but speak them backwards as a mark of rebirth.
+Relations — Uneasy coexistence with the Syndicate; despised openly by the Green Covenant.
+Rumor — Some Choir members are said to be “sleeping” Overmind seeds, awaiting the command to awaken into full Blight forms.
+Primary Patron: Kaelthera (lust, ruin, rebirth)
+Secondary Patrons: Mirell (blood, lineage, oath), Vesska (ice, silence, judgment)
+Taboo Patron: Ashamar (wind, wildness, breath of beasts)
+
+Patron Carving:
+The Choir sing Kaelthera’s ruin as rebirth, bleed Mirell’s lineage into rot, and praise Vesska’s frost as seal upon plague. Yet they spurn Ashamar’s breath, for the beast’s wild freedom wars against their chosen decay.
+Entanglements — Rumors persist of Veil Compact messengers unknowingly carrying Choir sigils as part of their own coded deliveries. Whispers also claim a handful of Shaded Hollow herbalists have been given “gift seeds” that sprout more than medicine.
+
+---
+
+⚖ The Weight of the Shadow
+
+> Not all enemies charge the gate.
+Some open it from the inside.
+Some sell the key.
+
+The Broken Spiral is not strong in numbers — it is strong in reach.
+Its claws are in every bloc, its whispers in every hall.
+No one admits to needing them.
+No one doubts that they will be needed.
+
+---
+
+🏔 Independent Clans
+
+⚔ The GrimHowl — The Rage Unbound
+
+> They walk the lands like ghosts wearing human skin.
+They are kin to none, yet their blood carries the weight of valleys lost.
+When the rage comes, the Spiral itself trembles.
+
+The GrimHowl stand outside all accords.
+They answer no summons, swear no allegiance, and sign no pact.
+To some, they are a memory of when the Spiral was one; to others, they are a warning of what happens when a clan is burned to its last ember.
+
+Their neutrality is not mercy — it is distance.
+Those who try to claim them often find that the rage remembers every debt, and collects with interest.
+
+Home — Nomadic, scattered in human lands and hidden valleys.
+Role — Ragebound wanderers, ancestral echoes, myth-walkers.
+Rumor — Both the Iron Accord and the Veil Compact have covertly offered them sanctuary, coin, or blood-oaths in exchange for allegiance. All offers have been refused — sometimes with words, sometimes with bodies left in the snow.
+⚔ The GrimHowl — The Rage Unbound
+
+Primary Patron: Thonruk (war, sacrifice, fire)
+Secondary Patrons: Ashamar (wind, wildness, breath of beasts), Mirell (blood, lineage, oath)
+Taboo Patron: Vesska (ice, silence, judgment)
+
+Patron Carving:
+The GrimHowl burn with Thonruk’s war-fire, breathe Ashamar’s wild hunt, and bleed Mirell’s oath-thread raw. Their rage is worship — each howl a hymn, each strike a covenant. Yet they deny Vesska’s frost, for silence chains the scream, and judgment dares not bind what already walks unbound.
+
+---

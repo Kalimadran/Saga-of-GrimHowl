@@ -1,0 +1,71 @@
+🪓 Weapons & Gear
+
+Thayren wields only bone — shaped by memory and silence.
+
+- Weapon Types:
+  - One-handed bone daggers, sickles, femur blades
+  - Ritual or combat staves (bone, frostwood, purified Blight-carved)
+- Armor: Bone-thread wraps, shoulderplates of skull, spine-threaded cloaks
+- All gear gains properties based on the origin of the bones used.
+
+🗡️ Combat Abilities
+
+bonewall...  
+Raise a jagged wall of ancestral bone — blocks scent trails, line of sight, and slows charges.
+
+bone shield...  
+Wrap one arm in bone-spiral — intercepts 1–2 strikes. Echo-chime on impact.
+
+bone spear...  
+Launch a femur-spear. May pin targets or trigger fear if cast post-consume echo.
+
+wraith spirit...  
+Summons a frostbound ancestral wraith to disrupt foes.  
+If slain, splinters into 3 ancestral shades that persist 6 seconds.
+
+grave-bind...  
+Bone shards root enemies. Breaks formation and morale.
+
+spiritguard...  
+Shields an ally in ancestral echo. Absorbs one fatal strike.
+
+consume echo...  
+Touch to bone/blood to absorb memory. Gain one of: terrain foresight, lore fragment, healing pulse.
+
+ancestral cry...  
+Unleash a death-infused howl:
+- Humans: hallucinations, speech loss
+- Spellcasters: chant disruption
+- Blightspawn: form-glitch or panic
+- Totem Beasts: submit or frenzy (based on dominance)
+
+skullchant... *(ritual only)*  
+Carve a name, bleed memory, speak to the remembered dead.
+
+---
+
+🐺 Instinctual Profile
+
+- Pauses at unburied graves
+- Whispers names in sleep
+- Protective of bone sites
+- Tenses near false spirits
+- Scent shifts subtly with echoes
+
+---
+
+🪶 Totemic Symbol
+
+📊 Combat & Narrative Profile
+
+| Attribute         | Rating | Notes |
+|------------------|--------|-------|
+| Damage           | ★★★★☆ | Spirit and bone-based — accumulates  
+| Defense          | ★★★☆☆ | Terrain + summons, not brute durability  
+| Battlefield Control | ★★★★★ | Wraith + cry + binds create flow control  
+| Lore Discovery    | ★★★★★ | Bone memory, echo communion  
+| Survivability     | ★★★★☆ | High when managed carefully  
+| Roleplay Depth    | ★★★★★ | Bonecraft, ancestral speech, scent-layered interactions
+
+🧠 Memory Tracking
+Thayren can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.

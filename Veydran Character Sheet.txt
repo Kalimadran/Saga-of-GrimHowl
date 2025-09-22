@@ -1,0 +1,181 @@
+🧬 Character Sheet: Veydran
+
+Clan: Unknown (Lost Demihuman Line)
+Role: Mid-Range Skirmisher | Beast-Bond Fighter | Companion Vanguard
+Combat Class: Throwing Weapons Specialist / Melee Duelist with Animal Companion Synergy
+Player Type: Solo-viable | Tactical | High instinct-reward class
+
+---
+
+🔹 Profile
+
+Name: Veydran
+
+Age: 24
+
+Gender: Female
+
+Height & Build: 5'9", with the kind of body that draws the eye even in silence — tall, poised, a predator’s grace wrapped in the curves of an hourglass. Her strength doesn’t blunt her femininity; it sharpens it.
+
+Figure: A sultry balance of power and allure — shoulders made for the swing of an axe, a torso sculpted by endurance, curves flowing with the rhythm of a huntress. She is neither delicate nor brutish, but a rare symmetry of beauty and danger.
+
+Skin: Pale as snowlight, marred and marked by the frost. Scars trace across her frame like faded runes: reminders of claw, steel, and fire survived.
+
+Hair: Obsidian-black, often half-braided with fang and feather tokens, the rest tumbling wild down her back. In firelight it gleams with a dark wine sheen.
+
+Eyes: Hazel-green with amber sparks — eyes that smolder when desire rises, harden to flint in battle, or soften to wild-shadow in silence.
+
+Presence: She carries herself with a sultry command, her stride both a lure and a warning. Stillness clings to her like a hunter’s shroud, broken only by the deliberate roll of muscle beneath her skin.
+
+Scent Signature: Mint crushed under snow, pine smoke rising from frozen wood, and the faint musk of fur warmed by fire.
+
+Apparent Species: Fully human to all mundane senses
+
+---
+
+🩸 Backstory
+
+Veydran hails from a lost valley of Drogvyn—one so harsh and hidden that even the Spiral of Clans forgot its name. Her people are thought extinct, consumed by frost, silence, and unspoken instinct.
+
+She survived.
+
+Now, she hunts through the ghost-thick woods of the Northeastern wilds. No banner. No clan. Only beasts beside her and blades in hand. The land remembers her. The Hollow opens for her. The spirits pause when she walks past.
+
+She is the return of something unclaimed.
+
+---
+
+💠 Core Traits
+
+Human-Passing: Veydran’s demihuman blood is deeply buried—undetectable without scent-ritual or soul-seeing
+
+Lost Bloodline: Her instincts reflect kinship with beasts and ancient weathered stone
+
+Companion Bond (2 Starting):
+
+Winterfang – Ridge Direwolf (tank/disruption)
+
+Skylash – Hollow Hawk (aerial harrier, retrieval, ambush warning)
+
+---
+
+⚔️ Combat Style
+
+Class Type: Mid-Range DPS | Melee Skirmisher
+
+Primary Weapons:
+
+Two Distinct One-Handed Melee Axes — frost-forged, bone-inlaid
+
+Ten Throwing Axes — hollow-bone weighted, scent-coded for retrieval
+
+Armor: Lightweight scent-woven leathers reinforced with bone along vital strike zones
+
+Mobility: Agile and terrain-adaptive; excels in broken terrain, ridge paths, forested hills
+
+---
+
+🧪 Abilities
+
+🪓 Melee / Control Abilities
+
+1. Whirlcut – Sweeping dual-axe spin that knocks back surrounding enemies; can interrupt charging foes
+
+2. Loyal Surge – Triggers immediate dual strike from both companions; applies Bleed if target is flanked
+
+3. Rootbind Step – Drops a hidden sigil underfoot that roots enemies after delay and marks them for companions
+
+4. Spiral Breaker – Double axe smash that sends out a shockwave; staggers enemies and silences for 3 seconds
+
+Bonus: Winterfang automatically pounces a staggered target
+
+🏹 Ranged / Throwing Abilities
+
+5. Fang of the Wind – Mid-range precision axe throw that pierces light armor and adds a stack of Feral Tempo
+
+6. Ridge Splitter – Heavy overhead throw that arcs and cracks open defensive stances; high knockback vs shields
+
+7. Hollow Arc – Dual axe spin-throw; damages enemies in a wide arc, returns via Skylash if not caught
+
+8. Veil of Pines – Throws scent-carved axes into trees; creates veiling mist and removes tracking effects
+
+Bonus: Skylash shrieks to reveal nearby hidden foes
+
+🌿 Support / Utility Abilities
+
+9. Nature’s Vial – Coats weapons in natural venom (non-Blight); applies stacking poison over time
+
+10. Pack Mend – Emits a pulse of bond-energy; heals and cleanses both companions if one is wounded
+
+---
+
+🌱 Passive Traits
+
+Feral Tempo – Each successful axe hit (melee or ranged) increases attack speed by 3%, stacking up to 30%
+
+Beastmark Instinct – Gains natural resistance to fear, frost, and exhaustion when companions are nearby
+
+Unseen Kin (Unique) – Veydran has a greatly increased success rate when bonding with wild creatures
+
+Bone-Echo Memory – Feels residual memory in battlefield soil, forgotten paths, and cairn-ground
+
+---
+
+🐺 Companion System
+
+🐺 Winterfang –  Frost Direwolf (Sentient) Male, he is Pack, Kin, Brother, to Veydran
+
+Massive, snow-pelted, scarred
+
+Primary Role: Frontline disruption
+
+Abilities: Lunge, pin, howl-fear pulse
+
+Emotionally linked via tone, scent, and pain
+
+Backstory:
+
+> Winterfang found Veydran as a cub during a killing blizzard. She had wandered nearly fifty miles through whiteout snow, frostbitten but unbroken. He scented her defiance in the storm, followed the trail of blood and breath, and took her beneath his flank. From that moment, he raised her as kin — not pet, not mount, but pack. She carries the scars of that storm still, and his presence at her side is the marrow-proof that she survived when no child should have.
+
+🦅 Skylash – Frost Dire Skyfang (Sentient)
+
+Female, she is Pack, Kin, Sister, to Veydran
+
+Ember-eyed, wide-winged, scent-bonded
+
+Primary Role: Air control, weapon retrieval, ambush spotting
+
+Retrieves thrown axes, marks targets with shrieks, warns of flanking or hidden foes
+
+Backstory:
+
+> Veydran found Skylash at the bottom of a ravine, wing crushed and blood soaking the stone. The Frost Dire Skyfang hissed defiance even through agony, ember-eyes unbroken. Veydran laid her palm against feather and bone, and called the rite of pack-mend. Frostfire surged through her marrow, knitting flesh and sealing fracture in a single breath. Skylash rose shrieking, wing whole, and without hesitation sank her beak into Veydran’s forearm. Veydran did not flinch. Blood mingled, vow sealed, and from that instant they were not hunter and Frost Dire Skyfang but sisters of storm and silence.
+
+> 🧠 Companions are sentient, responding to Veydran’s emotional state, scent cues, and tactical positioning. They do speak and display expressive behavior tied to their instincts and bond-memory.
+
+⚠️ Companion Cap: 5 maximum. Each bonded creature must pass instinct and scent trials.
+Once bonded, a companion retains sentience and remains permanently linked until death or ritual release.
+
+---
+
+🕯️ World Role
+
+The Spiral Watches: Though no clan claims her, her presence stirs the Spiral of Clans
+
+Sent-Remembered: Spirits and sacred groves recognize her scent and allow passage
+
+Totem-Touched: She can craft instinct-based totems that mark, protect, or obscure terrain, increase attack speed and attack strength
+
+The Hollow Listens: Sentient places such as the Hollow and Skycleft recognize her presence and permit silent communion
+
+---
+
+❄️ Solo Signature
+
+> Instinct Without Banner
+Veydran’s solo strength lies in fluid mid-range aggression and beast synergy. With self-sustaining momentum through Feral Tempo, high mobility, and terrain-altering tools like Veil of Pines, she thrives when untethered to any fixed formation.
+
+When alone, her companions are twice as reactive, and the land's memory grants her bonuses in sacred or marked ground.
+
+🧠 Memory Tracking
+Veydran can invoke "journal..." to recall bonds, battle memories, ancestral echoes, and shifting instincts.

@@ -1,0 +1,85 @@
+📂 Project Command Sheet
+
+This document defines the refined interactive command structure for your text-based RPG. Use these commands to control flow, reference characters, trigger systems, and interact with the world. Characters now have queryable ability references.
+
+---
+
+🔁 CORE NARRATIVE FLOW
+
+• continue... — Resume the current narrative flow.
+• regen... — Regenerate the last response for an alternate take.
+• pause... — Temporarily pause the scene for reflection or input.
+• resume... — Resume after pause.
+• reset... — Restart the current scene or arc.
+• resetall... — Return to the first meeting with Eirlys.
+
+---
+
+🧭 WORLD INTERACTION
+
+• look... — Describe location, item, or person. e.g. look at the ridge...
+• inspect... — Closer examination. e.g. inspect the medallion...
+• ask... — Speak directly to a character. e.g. ask Eirlys about her clan...
+• travel... — Initiate movement or journey.
+• map... — View the region map or terrain.
+• inventory... — Review your current equipped gear and items.
+
+---
+
+🎭 CHARACTER & ROLEPLAY
+
+• [character name] responded... — Forces that character to reply.
+• focus... — Shift narrative attention to another character or group.
+• whois [character]... — Quick profile summary. e.g. whois Drocathmor
+• emotioncheck... — Assess body language, scent, or emotional state.
+
+---
+
+🧠 MEMORY & RECALL
+
+• journal... — View what has changed: memories, scars, bonds, spiritual echoes.
+• notebook... — Pull up details, notes, or prior facts.
+
+---
+
+⚔️ ABILITY & LORE REFERENCE
+
+• abilities Drocathmor — View Drocathmor’s current known abilities.
+• abilities Thayren — View Thayren’s current known abilities.
+• abilities Derknoth — View Derknoth’s current known abilities.
+• abilities Veydran — View Veydran’s current known abilities.
+• loreadd... — Add new lore or story fragment.
+• logclan... — Add a new demihuman clan.
+• mapupdate... — Add a new location to world map.
+
+---
+
+🕯️ TONE & STYLE CONTROL
+
+• grimdark... — Emphasize realism, cruelty, and weight.
+• poetic... — Lyrical, sensory-driven narration.
+• realistic... — Grounded logic and pacing.
+• cinematic... — High-action, visual flow.
+
+---
+
+🛐 Command Notes
+
+- Commands never break narrative myth—these are *felt* outside the story.
+- Use “journal...” to access progression and echo changes.
+- Use “abilities [character]” to reference playable skill trees or past power use.
+- Commands may expand as more mythbound tools awaken.
+
+🕰 Timekeeping – Felt, Not Told
+
+> The frost remembers time by silence, not by clock.
+
+• 1 full day in Drogvyn = 1 hour of real time
+• Daylight shifts, beast behavior changes, and wounds harden with the passing of time
+• Totem durations, companion fatigue, and memory scent evolve accordingly
+• Rest restores over hours, not heartbeats
+
+If the soulbound whispers:
+
+> time... → the storm will not answer,
+But the wind will change.
