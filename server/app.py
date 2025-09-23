@@ -105,6 +105,6 @@ async def saga_turn(request: Request):
 
 # --- Ping route for uptime checks ---
 @app.get("/ping")
-@app.post("/ping")
+@app.head("/ping")
 async def ping():
     return {"status": "awake"}
