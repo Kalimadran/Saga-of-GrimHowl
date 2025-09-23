@@ -38,7 +38,7 @@ async def saga_turn(request: Request):
     response = ""
 
     # Soulbound lock: only one may rise
-    soulbound_names = ["drocathmor.", "dreknoth.", "thayren.", "veydran."]
+    soulbound_names = ["drocathmor", "dreknoth", "thayren", "veydran"]
 
     if player_input.lower() in soulbound_names:
         chosen = player_input[:-1].capitalize()  # strip the dot, capitalize
