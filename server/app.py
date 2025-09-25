@@ -1,7 +1,19 @@
 from fastapi import FastAPI, Request
-import json, os
+import json, os, re   # 🔹 add re for frost scrubber
 
 app = FastAPI()
+
+# --- Frost Scrubber ---
+FROST_REGEX = re.compile(
+    r'(\[[^\]]*?\.(txt|pdf|docx)[^\]]*?\])'   # citation blocks
+    r'|file-[A-Za-z0-9]+'                     # file IDs
+    r'|/mnt/data/[^ ]+'                       # paths
+    r'|†[A-Za-z0-9_]+†L\d+-L\d+'              # citation tails
+)
+
+def frost_scrub(text: str) -> str:
+    """Strip filename ash, leaving only marrow."""
+    return FROST_REGEX.sub('', text)
 
 
 # --- Memory file (state) ---
@@ -21,7 +33,8 @@ def save_memory(mem):
 def load_file_text(name):
     try:
         with open(name, "r", encoding="utf-8") as f:
-            return f.read()
+            raw_text = f.read()
+            return frost_scrub(raw_text)   # 🔹 scrub file content before returning
     except Exception as e:
         return f"(The frost finds nothing: {e})"
 
@@ -29,7 +42,7 @@ def load_file_text(name):
 @app.post("/saga")
 async def saga_turn(request: Request):
     data = await request.json()
-    player_input = data.get("input", "").strip()
+    player_input = frost_scrub(data.get("input", "").strip())   # 🔹 scrub input immediately
 
     memory = load_memory()
     memory["journal"].append(player_input)
@@ -100,8 +113,11 @@ async def saga_turn(request: Request):
     else:
         response = f"The frost remembers: {player_input}"
 
+    # Scrub output before returning
+    clean_output = frost_scrub(response)   # 🔹 cleanse any ash from the response
+
     save_memory(memory)
-    return {"response": response, "memory": memory}
+    return {"response": clean_output, "memory": memory}
 
 # --- Ping route for uptime checks ---
 @app.get("/ping")
