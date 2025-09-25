@@ -41,21 +41,19 @@ def save_memory(mem):
         json.dump(mem, f, indent=2, ensure_ascii=False)
 
 # ----------------------------
-# Frost Scrubber (remove file/ID/citation ash)
+# Frost Scrubber
 # ----------------------------
 FROST_REGEX = re.compile(
-    r'(\[[^\]]*?\.(txt|pdf|docx)[^\]]*?\])'   # [ ... .txt ] etc.
-    r'|file-[A-Za-z0-9]+'                     # file IDs
-    r'|/mnt/data/[^\s]+'                      # local paths
-    r'|†[A-Za-z0-9_]+†L\d+-L\d+'              # citation tails
+    r'(\[[^\]]*?\.(txt|pdf|docx)[^\]]*?\])'
+    r'|file-[A-Za-z0-9]+'
+    r'|/mnt/data/[^\s]+'
+    r'|†[A-Za-z0-9_]+†L\d+-L\d+'
 )
-
 def frost_scrub(text: str) -> str:
     return FROST_REGEX.sub('', text or "")
 
 # ----------------------------
 # Canon, NPC, Soulbound maps
-# (filenames match your repo screenshot exactly)
 # ----------------------------
 CANON_FILES = {
     "covenant": os.path.join(BASE_DIR, "Covenant of Drogvyn.txt"),
@@ -63,11 +61,9 @@ CANON_FILES = {
     "flora":    os.path.join(BASE_DIR, "Flora & Fauna & Mineral.txt"),
     "commands": os.path.join(BASE_DIR, "Project Command Sheet.txt"),
 }
-
 NPC_FILES = {
     "eirlys": os.path.join(BASE_DIR, "Eirlys_Character_Sheet.txt"),
 }
-
 SOULBOUND_FILES = {
     "drocathmor": {
         "abilities": os.path.join(BASE_DIR, "Drocathmor Abilities.txt"),
@@ -90,20 +86,17 @@ SOULBOUND_FILES = {
 # ----------------------------
 # Helpers
 # ----------------------------
-def load_file_text(path: str) -> str:
+def load_file_text(path: str, label: str = "file") -> str:
+    if not os.path.exists(path):
+        return f"(The frost remembers no {label} here.)"
     try:
         with open(path, "r", encoding="utf-8") as f:
             return frost_scrub(f.read())
-    except Exception as e:
-        return f"(The frost finds nothing: {e})"
+    except Exception:
+        return f"(The frost cannot read the {label}.)"
 
 NAME_TOKEN = re.compile(r'^\s*["“]?([A-Za-z]+)[\.\!\?"]?\s*$')
-
 def parse_soulbound_token(text: str) -> str | None:
-    """
-    Accepts: 'Drocathmor.', 'dreknoth', '"Thayren"', etc.
-    Returns canonical key in SOULBOUND_FILES or None.
-    """
     m = NAME_TOKEN.match(text or "")
     if not m:
         return None
@@ -131,16 +124,14 @@ async def saga_turn(request: Request):
     player_input = frost_scrub((data.get("input") or "").strip())
     mem = load_memory()
 
-    # journal... always records the raw breath (scrubbed)
     if player_input:
         mem["journal"].append(player_input)
         save_memory(mem)
 
-    # Paused gate
     if mem.get("paused") and not player_input.lower().startswith(("resume", "resume...", "begin", "begin...")):
         return {"response": "The frost holds. (paused) Whisper: resume... or begin..."}
 
-    # ---------- Soulbound selection ----------
+    # Soulbound selection
     token = parse_soulbound_token(player_input)
     if token:
         chosen = token.capitalize()
@@ -152,7 +143,7 @@ async def saga_turn(request: Request):
             return {"response": f"The frost remembers: {chosen} already walks alone."}
         return {"response": f"The frost rejects this name. The soulbound is already {mem['soulbound']}."}
 
-    # ---------- Begin / Pause / Resume / Rebinding ticks ----------
+    # Begin / Pause / Resume
     low = player_input.lower()
     if low in ("begin", "begin..."):
         mem["rebind_count"] += 1
@@ -160,36 +151,33 @@ async def saga_turn(request: Request):
         mem["paused"] = False
         save_memory(mem)
         return {"response": "The frost re-reads the Covenant. Memory realigns. The hunt begins."}
-
     if low in ("pause", "pause..."):
         mem["paused"] = True
         save_memory(mem)
         return {"response": "The frost holds. Breath is stilled until you whisper: resume..."}
-
     if low in ("resume", "resume..."):
         mem["paused"] = False
         save_memory(mem)
         return {"response": "Breath returns. The frost moves again."}
 
-    # ---------- Canon access ----------
+    # Canon access
     if low in CANON_FILES:
-        return {"response": load_file_text(CANON_FILES[low])}
+        return {"response": load_file_text(CANON_FILES[low], low)}
 
-    # ---------- NPC access ----------
+    # NPC access
     if low.startswith("npc "):
         npc = low.split(" ", 1)[1].strip()
         if npc in NPC_FILES:
-            return {"response": load_file_text(NPC_FILES[npc])}
+            return {"response": load_file_text(NPC_FILES[npc], f"NPC {npc}")}
         return {"response": f"The frost remembers no NPC named {npc}."}
 
-    # ---------- Journal / Commands ----------
-    if low in ("journal", "journal...", "journal …"):
+    # Journal / Commands
+    if low.startswith("journal"):
         return {"response": "\n".join(mem["journal"]) or "(The frost has kept no words yet.)"}
-
-    if low in ("commands", "commands...", "commands …"):
+    if low.startswith("commands"):
         cmd = (
             "Whisper:\n"
-            "• Drocathmor. / Dreknoth. / Thayren. / Veydran.  (choose soulbound)\n"
+            "• Drocathmor. / Dreknoth. / Thayren. / Veydran.\n"
             "• begin... / pause... / resume...\n"
             "• journal...\n"
             "• abilities {Name}\n"
@@ -199,26 +187,24 @@ async def saga_turn(request: Request):
         )
         return {"response": cmd}
 
-    # ---------- Soulbound-locked abilities/character ----------
+    # Abilities
     if low.startswith("abilities "):
         if mem["soulbound"] is None:
             return {"response": "The frost waits. No soul has been bound yet."}
         _, name = player_input.split(" ", 1)
-        key = name.strip().lower()
-        if mem["soulbound"].lower() != key:
+        token = parse_soulbound_token(name)
+        if not token or mem["soulbound"].lower() != token:
             return {"response": f"The frost denies you. Only {mem['soulbound']} may be remembered."}
-        path = SOULBOUND_FILES[key]["abilities"]
-        return {"response": load_file_text(path)}
+        return {"response": load_file_text(SOULBOUND_FILES[token]["abilities"], "abilities")}
 
+    # Character
     if low.startswith("character "):
         if mem["soulbound"] is None:
             return {"response": "The frost waits. No soul has been bound yet."}
         _, name = player_input.split(" ", 1)
-        key = name.strip().lower()
-        if mem["soulbound"].lower() != key:
+        token = parse_soulbound_token(name)
+        if not token or mem["soulbound"].lower() != token:
             return {"response": f"The frost denies you. Only {mem['soulbound']} may walk here."}
-        path = SOULBOUND_FILES[key]["character"]
-        return {"response": load_file_text(path)}
+        return {"response": load_file_text(SOULBOUND_FILES[token]["character"], "character sheet")}
 
-    # ---------- Fallback echo in Covenant voice ----------
     return {"response": f"The frost remembers: {player_input}"}
