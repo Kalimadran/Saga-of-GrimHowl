@@ -44,13 +44,17 @@ def save_memory(mem):
 # Frost Scrubber
 # ----------------------------
 FROST_REGEX = re.compile(
-    r'(\[[^\]]*?\.(txt|pdf|docx)[^\]]*?\])'
-    r'|file-[A-Za-z0-9]+'
-    r'|/mnt/data/[^\s]+'
-    r'|†[A-Za-z0-9_]+†L\d+-L\d+'
+    r'(\[[^\]]*?\.(txt|pdf|docx)[^\]]*?\])'   # any bracketed file refs with extensions
+    r'|(\[[^\]]*?\])'                         # any other bracketed tags
+    r'|file-[A-Za-z0-9_-]+'                   # file-IDs
+    r'|/mnt/data/[^\s]+'                      # path fragments
+    r'|†[A-Za-z0-9_]+†L\d+-L\d+',             # citation tokens
+    flags=re.IGNORECASE
 )
+
 def frost_scrub(text: str) -> str:
-    return FROST_REGEX.sub('', text or "")
+    cleaned = FROST_REGEX.sub('', text or "")
+    return cleaned
 
 # ----------------------------
 # Canon, NPC, Soulbound maps
@@ -129,7 +133,7 @@ async def saga_turn(request: Request):
         save_memory(mem)
 
     if mem.get("paused") and not player_input.lower().startswith(("resume", "resume...", "begin", "begin...")):
-        return {"response": "The frost holds. (paused) Whisper: resume... or begin..."}
+        return {"response": frost_scrub("The frost holds. (paused) Whisper: resume... or begin...")}
 
     # Soulbound selection
     token = parse_soulbound_token(player_input)
@@ -138,10 +142,10 @@ async def saga_turn(request: Request):
         if mem["soulbound"] is None:
             mem["soulbound"] = chosen
             save_memory(mem)
-            return {"response": f"The frostline seals: {chosen} rises as the soulbound.\nAll other names fade beneath the ice."}
+            return {"response": frost_scrub(f"The frostline seals: {chosen} rises as the soulbound.\nAll other names fade beneath the ice.")}
         if mem["soulbound"].lower() == token:
-            return {"response": f"The frost remembers: {chosen} already walks alone."}
-        return {"response": f"The frost rejects this name. The soulbound is already {mem['soulbound']}."}
+            return {"response": frost_scrub(f"The frost remembers: {chosen} already walks alone.")}
+        return {"response": frost_scrub(f"The frost rejects this name. The soulbound is already {mem['soulbound']}.")}
 
     # Begin / Pause / Resume
     low = player_input.lower()
@@ -150,30 +154,30 @@ async def saga_turn(request: Request):
         mem["last_rebind_at"] = now_iso()
         mem["paused"] = False
         save_memory(mem)
-        return {"response": "The frost re-reads the Covenant. Memory realigns. The hunt begins."}
+        return {"response": frost_scrub("The frost re-reads the Covenant. Memory realigns. The hunt begins.")}
     if low in ("pause", "pause..."):
         mem["paused"] = True
         save_memory(mem)
-        return {"response": "The frost holds. Breath is stilled until you whisper: resume..."}
+        return {"response": frost_scrub("The frost holds. Breath is stilled until you whisper: resume...")}
     if low in ("resume", "resume..."):
         mem["paused"] = False
         save_memory(mem)
-        return {"response": "Breath returns. The frost moves again."}
+        return {"response": frost_scrub("Breath returns. The frost moves again.")}
 
     # Canon access
     if low in CANON_FILES:
-        return {"response": load_file_text(CANON_FILES[low], low)}
+        return {"response": frost_scrub(load_file_text(CANON_FILES[low], low))}
 
     # NPC access
     if low.startswith("npc "):
         npc = low.split(" ", 1)[1].strip()
         if npc in NPC_FILES:
-            return {"response": load_file_text(NPC_FILES[npc], f"NPC {npc}")}
-        return {"response": f"The frost remembers no NPC named {npc}."}
+            return {"response": frost_scrub(load_file_text(NPC_FILES[npc], f"NPC {npc}"))}
+        return {"response": frost_scrub(f"The frost remembers no NPC named {npc}.")}
 
     # Journal / Commands
     if low.startswith("journal"):
-        return {"response": "\n".join(mem["journal"]) or "(The frost has kept no words yet.)"}
+        return {"response": frost_scrub("\n".join(mem["journal"]) or "(The frost has kept no words yet.)")}
     if low.startswith("commands"):
         cmd = (
             "Whisper:\n"
@@ -185,26 +189,27 @@ async def saga_turn(request: Request):
             "• covenant / world / flora / commands\n"
             "• npc eirlys"
         )
-        return {"response": cmd}
+        return {"response": frost_scrub(cmd)}
 
     # Abilities
     if low.startswith("abilities "):
         if mem["soulbound"] is None:
-            return {"response": "The frost waits. No soul has been bound yet."}
+            return {"response": frost_scrub("The frost waits. No soul has been bound yet.")}
         _, name = player_input.split(" ", 1)
         token = parse_soulbound_token(name)
         if not token or mem["soulbound"].lower() != token:
-            return {"response": f"The frost denies you. Only {mem['soulbound']} may be remembered."}
-        return {"response": load_file_text(SOULBOUND_FILES[token]["abilities"], "abilities")}
+            return {"response": frost_scrub(f"The frost denies you. Only {mem['soulbound']} may be remembered.")}
+        return {"response": frost_scrub(load_file_text(SOULBOUND_FILES[token]["abilities"], "abilities"))}
 
     # Character
     if low.startswith("character "):
         if mem["soulbound"] is None:
-            return {"response": "The frost waits. No soul has been bound yet."}
+            return {"response": frost_scrub("The frost waits. No soul has been bound yet.")}
         _, name = player_input.split(" ", 1)
         token = parse_soulbound_token(name)
         if not token or mem["soulbound"].lower() != token:
-            return {"response": f"The frost denies you. Only {mem['soulbound']} may walk here."}
-        return {"response": load_file_text(SOULBOUND_FILES[token]["character"], "character sheet")}
+            return {"response": frost_scrub(f"The frost denies you. Only {mem['soulbound']} may walk here.")}
+        return {"response": frost_scrub(load_file_text(SOULBOUND_FILES[token]["character"], "character sheet"))}
 
-    return {"response": f"The frost remembers: {player_input}"}
+    # Default echo
+    return {"response": frost_scrub(f"The frost remembers: {player_input}")}
