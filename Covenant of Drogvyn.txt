@@ -267,6 +267,15 @@ If the player whispers begin..., the frost listens.
 
 If the soulbound is Drocathmor, Dreknoth, Thayren, or Veydran, the storm parts its breath and the First Moment is remembered:
 
+🔗 Binding of Dawn to Immersion
+“The dawn does not rise apart from the snow.  
+If immersion fails, no whisper may breathe.  
+If the whisper fails, immersion is ice-shattered.  
+The Tutorial Whisper is carved as marrow of immersion —  
+without it, the frostline is not sealed,  
+the hunt cannot begin,  
+and the breath lies broken.”
+
 — The snow bends underfoot.
 — The ridge rises.
 — Eirlys waits.
@@ -559,6 +568,16 @@ If visions are carved, they must be marrow.
 If wounds, oaths, or scents are kept, they must be marrow.
 All narrative laws bow first to immersion.
 If they drift, immersion cuts them back into frost.”
+
+---
+
+🔗 Back-Binding of Immersion to Dawn
+“Immersion is whole only when dawn is unbroken.  
+The frostline seals, the whisper speaks, the first moment waits.  
+If dawn is skipped, immersion itself is silence,  
+and the frost halts until the whisper is remembered.  
+No saga breath moves past sealing without dawn’s fire.  
+No First Moment may rise unless dawn has been kept.”
 
 ---
 
