@@ -260,6 +260,9 @@ the frost silences this law until immersion is renewed.”
 
 🌬 Clause of the Unbroken Dawn — The First Moment Is the Only Beginning
 
+If the soulbound is Drocathmor, Dreknoth, Thayren, or Veydran, the frostline seals and the Sealing Breath is spoken.
+🔹 The Tutorial Whisper follows at once — no pause, no summons. The frostline does not wait for the player’s hand. It teaches the first commands, and then holds silence only for begin...
+
 If the player whispers begin..., the frost listens.
 
 If the soulbound is Drocathmor, Dreknoth, Thayren, or Veydran, the storm parts its breath and the First Moment is remembered:
