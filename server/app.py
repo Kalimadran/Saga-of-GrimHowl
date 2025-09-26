@@ -16,6 +16,36 @@ app.add_middleware(
 )
 
 # ----------------------------
+# Global Frost Scrubber Middleware
+# ----------------------------
+from fastapi.responses import JSONResponse
+
+@app.middleware("http")
+async def scrub_outgoing(request: Request, call_next):
+    response = await call_next(request)
+
+    if isinstance(response, JSONResponse):
+        try:
+            data = json.loads(response.body.decode("utf-8"))
+
+            # Deep scrub every string
+            def deep_scrub(obj):
+                if isinstance(obj, str):
+                    return frost_scrub(obj)
+                if isinstance(obj, dict):
+                    return {k: deep_scrub(v) for k, v in obj.items()}
+                if isinstance(obj, list):
+                    return [deep_scrub(v) for v in obj]
+                return obj
+
+            cleaned = deep_scrub(data)
+            return JSONResponse(content=cleaned, status_code=response.status_code)
+        except Exception:
+            return response
+
+    return response
+
+# ----------------------------
 # Paths & persistence
 # ----------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
